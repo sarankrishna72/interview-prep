@@ -1,0 +1,12 @@
+<section [ngClass]=" {'glass-panel hud-panel min-h-full w-full': cardType() == 'primary', 'secondary-panel': cardType() == 'secondary'}" class="{{cardClass()}}">
+  @if (isAnimation()) {
+    <div class="scan-line"></div>
+  }
+  <div class="panel-shine"></div>
+  @if(cardTitle()) {
+    <div class="card-header">
+      <cyborg-text textClass="tracking-[1.5px] mb-2" [textConfig]="{size: 'sm' , color: 'secondary', family: 'inter'}">{{cardTitle()}}</cyborg-text>
+    </div>
+  }
+  <ng-content></ng-content>
+</section>

@@ -1,0 +1,21 @@
+<div class="assistant-shell items-start flex gap-3">
+  <div class="assistant-avatar-wrap relative shrink-0">
+    <div class="assistant-avatar-ring">
+      <div class="assistant-avatar" id="assistantAvatar">🔇</div>
+    </div>
+  </div>
+
+  <div class="assistant-bubble">
+    <cyborg-text textClass="uppercase mb-2 tracking-[1.4px]" class="assistant-name" [textConfig]="{size: '3xs', color: 'accent', family: 'orbitron'}">
+      Nova AI
+    </cyborg-text>
+    <cyborg-text textClass=" text-[14px] leading-[1.65] min-h-[48px] whitespace-pre-wrap" class="assistant-text" [textConfig]="{size: 'sm', color: 'primary', family: 'inter'}">Voice reactions disabled. I shall judge you silently.</cyborg-text>
+    <div class="voice-indicator speaking mb-2 inline-flex items-center gap-2">
+      <span class="voice-dot"></span>
+      <cyborg-text textClass=" text-[14px] tracking-[1px]  uppercase"  [textConfig]="{size: '3xs', color: 'secondary', family: 'inter'}">
+        Voice standby
+      </cyborg-text>
+      <span></span>
+    </div>
+  </div>
+</div>

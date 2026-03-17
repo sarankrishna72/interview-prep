@@ -1,0 +1,21 @@
+.cyborg-scan {
+    width: 100px;
+    background: linear-gradient(90deg, transparent, var(--cyan2), transparent);
+    filter: drop-shadow(0 0 8px rgba(0, 240, 255, 0.4));
+    animation: scanMove 2.6s linear infinite;
+}
+
+@keyframes scanMove {
+    0% { transform: translateX(-14px); opacity: 0.3; }
+    50% { transform: translateX(14px); opacity: 1; }
+    100% { transform: translateX(-14px); opacity: 0.3; }
+}
+
+.cyborg-divider {
+    position: relative;
+    z-index: 1;
+    height: 1px;
+    margin: 18px 0 24px;
+    background: linear-gradient(90deg, transparent 0%, var(--cyan-line) 12%, var(--cyan-line) 88%, transparent 100%);
+    box-shadow: 0 0 14px rgba(84, 231, 255, 0.25);
+}

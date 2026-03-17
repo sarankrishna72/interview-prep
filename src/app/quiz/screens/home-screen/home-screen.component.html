@@ -1,0 +1,49 @@
+<section class="grid grid-cols-[1.02fr_0.98fr] gap-5">
+  <cyborg-card [isAnimation]="true" cardClass="flex items-center">
+    <div class="h-full flex flex-col justify-center">
+      <div class="tag mb-[14px]">
+        <cyborg-text textClass="cyborg-text-size-xs cyborg-text-color-accent">
+          Neural Learning Interface
+        </cyborg-text>
+      </div>
+      <cyborg-text textClass="cyborg-primary-header-1 mb-[14px]">
+        CYBORG QUIZ CONTROL CENTER
+      </cyborg-text>
+      <cyborg-text textClass="cyborg-subtitle-desc mt-[10px]">
+        Search and select from many quiz categories, configure question count,
+        and launch a futuristic MCQ experience with hints, floating cyber particles,
+        AI sidekick speech bubble, voice reactions, and matrix scan effects.
+      </cyborg-text>
+      <div class="grid grid-cols-3 gap-4 mt-4">
+        <cyborg-stat-card>
+          <div stat-label>
+            <cyborg-text [textConfig]="{size: '3xs', color: 'secondary', family: 'inter'}">
+              Scalable Categories
+            </cyborg-text>
+          </div>
+          <div stat-body>{{ categories.length }}</div>
+        </cyborg-stat-card>
+        <cyborg-stat-card>
+          <div stat-label>
+            <cyborg-text [textConfig]="{size: '3xs', color: 'secondary', family: 'inter'}">
+              Hint Mode
+            </cyborg-text>
+          </div>
+          <div stat-body>ON</div>
+        </cyborg-stat-card>
+        <cyborg-stat-card>
+          <div stat-label>
+            <cyborg-text [textConfig]="{size: '3xs', color: 'secondary', family: 'inter'}">
+              UI Theme
+            </cyborg-text>
+          </div>
+          <div stat-body>CYBER</div>
+        </cyborg-stat-card>
+      </div>
+    </div>
+  </cyborg-card>
+  <cyborg-card >
+    <cyborg-text textClass="tracking-[1px] mb-5" [textConfig]="{size: 'lg', color: 'primary', weight: 'bold', family: 'orbitron'}">Mission Setup</cyborg-text>
+    <cyborg-quiz-setup [categories]="categories"></cyborg-quiz-setup>
+  </cyborg-card>
+</section>

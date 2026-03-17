@@ -1,0 +1,18 @@
+.cyborg-stat {
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px solid rgba(93, 214, 255, 0.12);
+    clip-path: polygon(12px 0, calc(100% - 12px) 0, 100% 12px, 100% calc(100% - 12px), calc(100% - 12px) 100%, 12px 100%, 0 calc(100% - 12px), 0 12px);
+}
+
+.cyborg-stat-label {
+    color: var(--muted);
+    font-size: var(--cyborg-font-3xs);
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+  
+}
+
+.cyborg-stat-body {
+    font-size: var(--cyborg-font-lg);
+    color: var(--cyan);
+}
