@@ -1,0 +1,5930 @@
+[
+  {
+    "id": 1,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 2,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 3,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 4,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 5,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 6,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 7,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 8,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 9,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 10,
+    "question": "What does ngIf do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 11,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 12,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 13,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 14,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 15,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 16,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 17,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 18,
+    "question": "What does ngIf do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 19,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 20,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 21,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 22,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 23,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 24,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 25,
+    "question": "What does ngIf do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 26,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 27,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 28,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 29,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 30,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 31,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 32,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 33,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 34,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 35,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 36,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 37,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 38,
+    "question": "What does ngIf do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 39,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 40,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 41,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 42,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 43,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 44,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 45,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 46,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 47,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 48,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 49,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 50,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 51,
+    "question": "What does ngIf do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 52,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 53,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 54,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 55,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 56,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 57,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 58,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 59,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 60,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 61,
+    "question": "What does ngIf do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 62,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 63,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 64,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 65,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 66,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 67,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 68,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 69,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 70,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 71,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 72,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 73,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 74,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 75,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 76,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 77,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 78,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 79,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 80,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 81,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 82,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 83,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 84,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 85,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 86,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 87,
+    "question": "What does ngIf do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 88,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 89,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 90,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 91,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 92,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 93,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 94,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 95,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 96,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 97,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 98,
+    "question": "What does ngIf do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 99,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 100,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "easy",
+    "description": "Easy level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 101,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 102,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 103,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 104,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 105,
+    "question": "What does ngIf do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 106,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 107,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 108,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 109,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 110,
+    "question": "What does ngIf do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 111,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 112,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 113,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 114,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 115,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 116,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 117,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 118,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 119,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 120,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 121,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 122,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 123,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 124,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 125,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 126,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 127,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 128,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 129,
+    "question": "What does ngIf do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 130,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 131,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 132,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 133,
+    "question": "What does ngIf do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 134,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 135,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 136,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 137,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 138,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 139,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 140,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 141,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 142,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 143,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 144,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 145,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 146,
+    "question": "What does ngIf do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 147,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 148,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 149,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 150,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 151,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 152,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 153,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 154,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 155,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 156,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 157,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 158,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 159,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 160,
+    "question": "What does ngIf do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 161,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 162,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 163,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 164,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 165,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 166,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 167,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 168,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 169,
+    "question": "What does ngIf do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 170,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 171,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 172,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 173,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 174,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 175,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 176,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 177,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 178,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 179,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 180,
+    "question": "What does ngIf do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 181,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 182,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 183,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 184,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 185,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 186,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 187,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 188,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 189,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 190,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 191,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 192,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 193,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 194,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 195,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 196,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 197,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 198,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 199,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 200,
+    "question": "What does ngIf do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "medium",
+    "description": "Medium level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 201,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 202,
+    "question": "What does ngIf do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 203,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 204,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 205,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 206,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 207,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 208,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 209,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 210,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 211,
+    "question": "What does ngIf do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 212,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 213,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 214,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 215,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 216,
+    "question": "What does ngIf do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 217,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 218,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 219,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 220,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 221,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 222,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 223,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 224,
+    "question": "What does ngIf do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 225,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 226,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 227,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 228,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 229,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 230,
+    "question": "What does ngIf do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 231,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 232,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 233,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 234,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 235,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 236,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 237,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 238,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 239,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 240,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 241,
+    "question": "What does ngIf do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 242,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 243,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 244,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 245,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 246,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 247,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 248,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 249,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 250,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 251,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 252,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 253,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 254,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 255,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 256,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 257,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 258,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 259,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 260,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 261,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 262,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 263,
+    "question": "What does ngIf do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 264,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 265,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 266,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 267,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 268,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 269,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 270,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 271,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 272,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 273,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 274,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 275,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 276,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 277,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 278,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 279,
+    "question": "What does ngIf do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 280,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 281,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 282,
+    "question": "What does ngFor do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 283,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 284,
+    "question": "What does ngIf do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 285,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 286,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 287,
+    "question": "What does ngIf do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 288,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 289,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 290,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 291,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 292,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 293,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 294,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 295,
+    "question": "What does ngIf do?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 296,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 297,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "@Component({selector:'app-root', template:'<h1>Hello</h1>'})",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 298,
+    "question": "Which decorator defines a component?",
+    "options": [
+      "@Component",
+      "@NgModule",
+      "@Injectable",
+      "@Directive"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 299,
+    "question": "What does ngFor do?",
+    "options": [
+      "Iterate lists",
+      "Hide elements",
+      "Bind styles",
+      "Create modules"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  },
+  {
+    "id": 300,
+    "question": "What does ngIf do?",
+    "options": [
+      "Conditionally render elements",
+      "Loop elements",
+      "Style elements",
+      "Create services"
+    ],
+    "code": "",
+    "category": "Angular",
+    "difficulty": "hard",
+    "description": "Hard level Angular concept question.",
+    "hint": "Review core Angular concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of Angular fundamentals."
+  }
+]

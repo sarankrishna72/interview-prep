@@ -1,0 +1,5927 @@
+[
+  {
+    "id": 1,
+    "question": "What does display:flex enable?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 2,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 3,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 4,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 5,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 6,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 7,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 8,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 9,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 10,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 11,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 12,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 13,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 14,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 15,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 16,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 17,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 18,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 19,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 20,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 21,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 22,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 23,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 24,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 25,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 26,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 27,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 28,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 29,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 30,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 31,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 32,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 33,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 34,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 35,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 36,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 37,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 38,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 39,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 40,
+    "question": "What does display:flex enable?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 41,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 42,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 43,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 44,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 45,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 46,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 47,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 48,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 49,
+    "question": "What does display:flex enable?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 50,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 51,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 52,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 53,
+    "question": "What does display:flex enable?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 54,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 55,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 56,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 57,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 58,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 59,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 60,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 61,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 62,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 63,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 64,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 65,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 66,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 67,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 68,
+    "question": "What does display:flex enable?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 69,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 70,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 71,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 72,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 73,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 74,
+    "question": "What does display:flex enable?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 75,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 76,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 77,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 78,
+    "question": "What does display:flex enable?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 79,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 80,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 81,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 82,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 83,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 84,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 85,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 86,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 87,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 88,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 89,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 90,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 91,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 92,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 93,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 94,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 95,
+    "question": "What does display:flex enable?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 96,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 97,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 98,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 99,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 100,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "easy",
+    "description": "Easy level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 101,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 102,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 103,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 104,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 105,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 106,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 107,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 108,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 109,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 110,
+    "question": "What does display:flex enable?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 111,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 112,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 113,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 114,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 115,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 116,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 117,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 118,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 119,
+    "question": "What does display:flex enable?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 120,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 121,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 122,
+    "question": "What does display:flex enable?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 123,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 124,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 125,
+    "question": "What does display:flex enable?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 126,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 127,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 128,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 129,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 130,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 131,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 132,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 133,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 134,
+    "question": "What does display:flex enable?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 135,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 136,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 137,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 138,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 139,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 140,
+    "question": "What does display:flex enable?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 141,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 142,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 143,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 144,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 145,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 146,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 147,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 148,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 149,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 150,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 151,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 152,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 153,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 154,
+    "question": "What does display:flex enable?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 155,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 156,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 157,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 158,
+    "question": "What does display:flex enable?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 159,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 160,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 161,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 162,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 163,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 164,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 165,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 166,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 167,
+    "question": "What does display:flex enable?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 168,
+    "question": "What does display:flex enable?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 169,
+    "question": "What does display:flex enable?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 170,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 171,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 172,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 173,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 174,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 175,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 176,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 177,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 178,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 179,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 180,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 181,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 182,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 183,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 184,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 185,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 186,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 187,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 188,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 189,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 190,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 191,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 192,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 193,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 194,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 195,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 196,
+    "question": "What does display:flex enable?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 197,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 198,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 199,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 200,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "medium",
+    "description": "Medium level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 201,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 202,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 203,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 204,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 205,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 206,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 207,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 208,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 209,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 210,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 211,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 212,
+    "question": "What does display:flex enable?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 213,
+    "question": "What does display:flex enable?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 214,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 215,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 216,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 217,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 218,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 219,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 220,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 221,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 222,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 223,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 224,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 225,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 226,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 227,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 228,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 229,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 230,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 231,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 232,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 233,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 234,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 235,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 236,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 237,
+    "question": "What does display:flex enable?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 238,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 239,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 240,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 241,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 242,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 243,
+    "question": "What does display:flex enable?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 244,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 245,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 246,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 247,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 248,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 249,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 250,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 251,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 252,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 253,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 254,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 255,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 256,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 257,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 258,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 259,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 260,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 261,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 262,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 263,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 264,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 265,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 266,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 267,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 268,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 269,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 270,
+    "question": "What does display:flex enable?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 271,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 272,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 273,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 274,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 275,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 276,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 277,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 278,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 279,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 280,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 281,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 282,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 283,
+    "question": "What does display:flex enable?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 284,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      2
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 285,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 286,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 287,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 288,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      1,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 289,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 290,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 291,
+    "question": "What does display:flex enable?",
+    "options": [
+      "Flexbox layout",
+      "Grid layout",
+      "Inline layout",
+      "Table layout"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 292,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 293,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 294,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 295,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      2,
+      3
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 296,
+    "question": "What does display:flex enable?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 297,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 298,
+    "question": "What does display:flex enable?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 299,
+    "question": "Which property controls spacing outside elements?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "code": "",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "boolean",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  },
+  {
+    "id": 300,
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "foreground"
+    ],
+    "code": ".box { display:flex; align-items:center; }",
+    "category": "CSS",
+    "difficulty": "hard",
+    "description": "Hard level CSS concept question.",
+    "hint": "Review core CSS concepts.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "This checks understanding of CSS fundamentals."
+  }
+]

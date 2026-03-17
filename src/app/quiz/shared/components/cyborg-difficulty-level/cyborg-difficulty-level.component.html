@@ -1,23 +1,11 @@
 <div class="difficulty-section">
   <div class="difficulty-selector">
-    <input type="radio" name="difficulty" id="easy" checked />
-    <label for="easy" class="difficulty-option flex items-center cyber-btn easy">
-      <span class="difficulty-dot"></span>
-      <span class="difficulty-text">Easy</span>
-    </label>
-
-
-
-    <input type="radio" name="difficulty" id="medium" />
-    <label for="medium" class="difficulty-option  flex items-center cyber-btn cyber-btn medium">
-      <span class="difficulty-dot"></span>
-      <span class="difficulty-text">Medium</span>
-    </label>
-
-    <input type="radio" name="difficulty" id="hard" />
-    <label for="hard" class="difficulty-option  flex items-center cyber-btn cyber-btn hard">
-      <span class="difficulty-dot"></span>
-      <span class="difficulty-text">Hard</span>
-    </label>
+    @for (item of difficulties; track item) {
+      <input (change)="onChange(item)" type="radio" name="difficulty" [id]="item" [checked]="selectedDifficulty == item" />
+      <label [for]="item" class="difficulty-option flex items-center cyber-btn" [ngClass]="item">
+        <span class="difficulty-dot"></span>
+        <span class="difficulty-text capitalize">{{item}}</span>
+      </label>
+    }
   </div>
 </div>

@@ -8,3 +8,9 @@
     transition: 0.25s ease;
     clip-path: polygon(12px 0, calc(100% - 12px) 0, 100% 12px, 100% calc(100% - 12px), calc(100% - 12px) 100%, 12px 100%, 0 calc(100% - 12px), 0 12px);
 }
+
+.category-card.active {
+    border-color: rgba(0, 240, 255, 0.65);
+    box-shadow: 0 0 18px rgba(0, 240, 255, 0.14);
+    background: linear-gradient(180deg, rgba(0, 240, 255, 0.08), rgba(91, 140, 255, 0.08));
+}

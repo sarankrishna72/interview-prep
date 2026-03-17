@@ -1,8 +1,17 @@
+import { Difficulty } from "./common.model";
+
+export type QuestionType = 'mcq' | 'boolean' | 'multi-answer';
 export type Question = {
-  question: string;
-  options: string[];
-  answer: string;
+  id: any;
+  question : string;
+  options ?: string[];
+  correctIndex?: number[];
   hint: string;
+  code ?: any;
+  category: string;
+  difficulty: string;
+  question_type: QuestionType;
+  explanation: string;
 };
 
 export type Category = {
@@ -16,3 +25,4 @@ export type Category = {
 
 export type ScreenMode = 'home' | 'quiz' | 'result';
 
+ export type SelectedSetup = {category: string, difficulty: Difficulty, noOfQuestions: any}

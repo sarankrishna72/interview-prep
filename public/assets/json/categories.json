@@ -1,0 +1,10 @@
+{
+    "categories": [
+    { "id": "html", "name": "HTML", "group": "Frontend", "icon": "🌐", "description": "Markup and page structure", "questions": [] },
+    { "id": "css", "name": "CSS", "group": "Frontend", "icon": "🎨", "description": "Styling and layouts", "questions": [] },
+    { "id": "javascript", "name": "JavaScript", "group": "Frontend", "icon": "⚡", "description": "Logic and interactivity", "questions": [] },
+    { "id": "angular", "name": "Angular", "group": "Frontend", "icon": "🅰️", "description": "Templates and bindings", "questions": [] },
+    { "id": "react", "name": "React", "group": "Frontend", "icon": "⚛️", "description": "Components and hooks", "questions": [] },
+    { "id": "sql", "name": "SQL", "group": "Database", "icon": "🐬", "description": "Queries, filtering, sorting, joins", "questions": [] }
+  ]
+}
