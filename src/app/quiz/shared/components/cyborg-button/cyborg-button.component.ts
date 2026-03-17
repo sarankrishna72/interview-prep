@@ -1,4 +1,4 @@
-import { ChangeDetectionStrategy, Component, input, Input, OnInit } from '@angular/core';
+import { ChangeDetectionStrategy, Component, input, Input, OnInit, output } from '@angular/core';
 import { ButtonType } from '../../../models/button.model';
 import { CommonModule } from '@angular/common';
 
@@ -13,7 +13,13 @@ import { CommonModule } from '@angular/common';
 export class CyborgButtonComponent implements OnInit {
   btnType = input<ButtonType>('');
   btnLabel = input<string>('');
+  onClick = output<any>();
   constructor() { }
+
+  onButtonClick() {
+    this.onClick.emit(true)
+  }
+  
   ngOnInit() {
   }
 
