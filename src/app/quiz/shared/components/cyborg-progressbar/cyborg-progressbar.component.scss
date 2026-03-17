@@ -1,0 +1,23 @@
+.progress-bar {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(93, 214, 255, 0.12);
+    overflow: hidden;
+    clip-path: polygon(10px 0, calc(100% - 10px) 0, 100% 10px, 100% calc(100% - 10px), calc(100% - 10px) 100%, 10px 100%, 0 calc(100% - 10px), 0 10px);
+}
+
+.progress-fill {
+    height: 100%;
+    width: 0%;
+    background: linear-gradient(90deg, var(--cyan2), var(--blue), var(--purple));
+    box-shadow: 0 0 18px rgba(0, 240, 255, 0.3);
+    transition: width 0.35s ease;
+    position: relative;
+}
+
+.progress-fill::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: repeating-linear-gradient(90deg, rgba(255, 255, 255, 0.18) 0, rgba(255, 255, 255, 0.18) 10px, transparent 10px, transparent 20px);
+    opacity: 0.18;
+}

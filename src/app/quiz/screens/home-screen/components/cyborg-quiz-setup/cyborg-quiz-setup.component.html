@@ -1,0 +1,74 @@
+<div id="quiz-setup">
+  <!-- <div class="mb-5">
+    <label for="player-name">
+      <cyborg-text [textConfig]="{size: 'xxs', family: 'orbitron', color: 'secondary'}" textClass="mb-[10px] tracking-[1px] uppercase block">Player Name</cyborg-text>
+    </label>
+    <input class="cyber-input w-full px-[13px] py-[13px]" placeholder="Enter your name" type="text" id="player-name" />
+  </div> -->
+  <div class="mb-5">
+    <label for="search-category">
+      <cyborg-text [textConfig]="{size: 'xxs', family: 'orbitron', color: 'secondary'}" textClass="mb-[10px] tracking-[1px] uppercase block">Search Category</cyborg-text>
+    </label>
+    <input class="cyber-input w-full px-[13px] py-[13px]" placeholder="Search Category..." type="text" id="search-category" />
+  </div>
+  <div class="mb-5">
+    <label for="group">
+      <cyborg-text [textConfig]="{size: 'xxs', family: 'orbitron', color: 'secondary'}" textClass="mb-[10px] tracking-[1px] uppercase block">Category Group</cyborg-text>
+    </label>
+    <div class="flex gap-[10px] flex-wrap mb-[5px]">
+      @for (group of categoryGroups(); track group) {
+        <button class="group-chip" [class.active]="group === 'All'">
+          {{ group }}
+        </button>
+      }@empty {
+        <div class="text-sm text-gray-500">
+          No category groups found. 
+        </div>
+      }
+    </div>
+  </div>
+  <div class="mb-5">
+    <label for="category">
+      <cyborg-text [textConfig]="{size: 'xxs', family: 'orbitron', color: 'secondary'}" textClass="mb-[10px] tracking-[1px] uppercase block">Select Category</cyborg-text>
+    </label>
+    <div class="category-grid pr-[4px] gap-[14px] max-h-[210px] grid overflow-y-auto">
+      @for (cat of categories(); track cat.id) {
+        <div class="category-card p-4 min-h-[120px] cursor-pointer">
+          <div class="category-icon text-[24px] mb-[8px]">{{ cat.icon }}</div>
+          <cyborg-text [textConfig]="{size: 'sm', family: 'orbitron', color: 'primary'}" textClass="mb-[3px]">{{ cat.name }}</cyborg-text>
+          <cyborg-text [textConfig]="{size: 'xxs', family: 'inter', color: 'secondary'}" textClass="leading-[1.5]">{{ cat.description }}</cyborg-text>
+        </div>
+      }@empty {
+        <div class="text-sm text-gray-500">
+          No categories found. Try another search.
+        </div>
+      }
+    </div>
+  </div>
+  <div class="mb-5">
+    <label for="difficulty">
+      <cyborg-text [textConfig]="{size: 'xxs', family: 'orbitron', color: 'secondary'}" textClass="mb-[10px] tracking-[1px] uppercase block">Difficulty Level</cyborg-text>
+    </label>
+    <cyborg-difficulty-level></cyborg-difficulty-level>
+  </div>
+  <div class="mb-5">
+    <label for="no-of-questions">
+      <cyborg-text [textConfig]="{size: 'xxs', family: 'orbitron', color: 'secondary'}" textClass="mb-[10px] tracking-[1px] uppercase block">Number of Questions</cyborg-text>
+    </label>
+    <select class="cyber-select w-full px-[13px] py-[13px]" id="no-of-questions">
+      <option value="3">3 Questions</option>
+      <option value="5">5 Questions</option>
+      <option value="7">7 Questions</option>
+      <option value="10">10 Questions</option>
+    </select>
+  </div>
+  <div class="flex gap-[12px] items-center">
+    <cyborg-button btnType="primary">
+      <cyborg-text [textConfig]="{size: 'xs', family: 'orbitron', color: 'primary'}" textClass="uppercase block w-full">Start Quiz</cyborg-text>
+    </cyborg-button>
+    <cyborg-button btnType="secondary">
+      <cyborg-text [textConfig]="{size: 'xs', family: 'orbitron', color: 'primary'}" textClass="uppercase block w-full">Reset</cyborg-text>
+    </cyborg-button>
+  </div>
+  <cyborg-text [textConfig]="{size: 'xxs', family: 'inter', color: 'secondary'}" textClass="block w-full mt-5">Use search + group filters + category cards. This scales better than a dropdown when you add many categories in future.</cyborg-text>
+</div>

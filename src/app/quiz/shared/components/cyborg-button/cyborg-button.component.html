@@ -1,0 +1,7 @@
+<button class="cyber-btn" [ngClass]="btnType()">
+  @if (btnLabel()) {
+    {{ btnLabel() }}  
+  } @else {
+    <ng-content></ng-content>
+  }
+</button>

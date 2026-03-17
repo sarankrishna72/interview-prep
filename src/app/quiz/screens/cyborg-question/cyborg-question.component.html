@@ -1,0 +1,80 @@
+<section id="questions">
+  <div class="grid  max-xl:grid-cols-1 xl:grid-cols-[1.2fr_0.8fr] gap-5 mb-5">
+    <cyborg-card>
+      <div class="h-full flex flex-col justify-center">
+        <div class="tag mb-[14px]">
+          <cyborg-text textClass="cyborg-text-size-xs cyborg-text-color-accent">
+            Live Assessment Interface
+          </cyborg-text>
+        </div>
+        <cyborg-text textClass="uppercase mb-[10px]" [textConfig]="{size: 'xl', color: 'primary', weight: 'bold', family: 'orbitron'}">
+          ANGULAR QUIZ SYSTEM
+        </cyborg-text>
+        <cyborg-text textClass="!leading-tight" [textConfig]="{size: 'md', color: 'secondary', weight: 'normal', family: 'inter'}">
+          Experience a dynamic Angular quiz system with real-time feedback, interactive hints, and a sleek cyber-themed UI. 
+        </cyborg-text>
+      </div>
+    </cyborg-card>
+    <cyborg-card>
+      <div class="h-full grid grid-cols-2 gap-3">
+        @for (item of statCards; track $index) {
+          <cyborg-stat-card>
+            <div stat-label>
+              <cyborg-text [textConfig]="{size: '3xs', color: 'secondary', family: 'inter'}">
+                {{ item.label }}
+              </cyborg-text>
+            </div>
+            <div stat-body>{{ questionStatsSummary[item.id] }}</div>
+          </cyborg-stat-card>
+        }
+      </div>
+    </cyborg-card>
+  </div>
+  <div class="w-full mb-5">
+    <cyborg-progressbar [progress]="60">
+      <div progress-header>
+        <cyborg-text [textConfig]="{size: 'xs', family: 'orbitron', color: 'secondary'}">{{ 'Question 3 of 5' }}</cyborg-text>
+      </div>
+    </cyborg-progressbar>
+  </div>
+  <div class="grid grid-cols-[1.35fr_0.65fr] gap-5">
+    <cyborg-question-card></cyborg-question-card>
+    <cyborg-card>
+      <cyborg-text [textConfig]="{size: 'md', family: 'orbitron', color: 'accent'}" textClass="uppercase block w-full">Mission Data</cyborg-text>
+      <cyborg-card class="mt-5 block" cardType="secondary"  cardTitle="Countdown Core">
+        <cyborg-timer></cyborg-timer>
+      </cyborg-card>
+       <cyborg-card class="mt-5 block" cardType="secondary"  cardTitle="Current Step">
+        <cyborg-text [textConfig]="{size: 'md', color: 'primary', family: 'inter'}">
+          Analyzing question 1. Choose one valid answer option.
+        </cyborg-text>
+      </cyborg-card>
+      <cyborg-card class="mt-5 block" cardType="secondary"  cardTitle="Hint Status">
+        <cyborg-text [textConfig]="{size: 'md', color: 'primary', family: 'inter'}">
+          Time expired. Correct answer revealed.
+        </cyborg-text>
+      </cyborg-card>
+      <cyborg-card class="mt-5 block" cardType="secondary"  cardTitle="AI Sidekick">
+        <cyborg-ai-sidekick></cyborg-ai-sidekick>
+      </cyborg-card>
+      
+    </cyborg-card>
+  </div>
+  <div class="grid grid-cols-[1.35fr_0.65fr] gap-5 mt-10">
+    <div class="flex justify-between items-center gap-4 ">
+      <cyborg-button btnType="danger">
+        <cyborg-text [textConfig]="{size: 'xs', family: 'orbitron', color: 'primary'}" textClass="uppercase block w-full">Back Home</cyborg-text>
+      </cyborg-button>
+      <cyborg-button btnType="secondary">
+        <cyborg-text [textConfig]="{size: 'xs', family: 'orbitron', color: 'primary'}" textClass="uppercase block w-full">Restart Quiz</cyborg-text>
+      </cyborg-button>
+      <cyborg-button btnType="secondary">
+        <cyborg-text [textConfig]="{size: 'xs', family: 'orbitron', color: 'primary'}" textClass="uppercase block w-full">Hint</cyborg-text>
+      </cyborg-button>
+      <cyborg-button btnType="primary">
+        <cyborg-text [textConfig]="{size: 'xs', family: 'orbitron', color: 'primary'}" textClass="uppercase block w-full">Next Target</cyborg-text>
+      </cyborg-button>
+    </div>
+    <div></div>
+  </div>
+</section>

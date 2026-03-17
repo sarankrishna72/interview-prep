@@ -1,0 +1,10 @@
+.category-grid {
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+}
+
+.category-card {
+    border: 1px solid rgba(93, 214, 255, 0.14);
+    background: linear-gradient(180deg, rgba(8, 15, 35, 0.95), rgba(8, 13, 28, 0.9));
+    transition: 0.25s ease;
+    clip-path: polygon(12px 0, calc(100% - 12px) 0, 100% 12px, 100% calc(100% - 12px), calc(100% - 12px) 100%, 12px 100%, 0 calc(100% - 12px), 0 12px);
+}

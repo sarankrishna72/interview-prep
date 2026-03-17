@@ -1,0 +1,10 @@
+<div class="timer-circle-wrap">
+  <div class="timer-circle" style="--timer-progress: {{timerProgress()}};">
+    <div class="timer-core">
+      <div class="timer-number">{{ counter() }}</div>
+      <cyborg-text [textConfig]="{size: 'xs', color: 'secondary', family: 'inter'}">
+        Seconds Left
+      </cyborg-text>
+    </div>
+  </div>
+</div>

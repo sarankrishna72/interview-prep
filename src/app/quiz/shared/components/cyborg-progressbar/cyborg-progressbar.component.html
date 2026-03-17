@@ -1,0 +1,13 @@
+<cyborg-card>
+  <div class="h-full">
+    <div class="progress-head flex justify-between gap-3 flex-wrap mb-3 cyborg-text-family-orbitron cyborg-text-size-xs">
+      <div>
+        <ng-content select="[progress-header]"></ng-content>
+      </div>
+      <cyborg-text [textConfig]="{size: 'xs', family: 'orbitron', color: 'secondary'}">{{ progress() }}%</cyborg-text>
+    </div>
+    <div class="h-[14px] progress-bar">
+      <div class="progress-fill" [ngStyle]="{ width: progress() + '%' }"></div>
+    </div>
+  </div>
+</cyborg-card>
