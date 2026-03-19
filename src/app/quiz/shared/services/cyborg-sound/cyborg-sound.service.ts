@@ -51,13 +51,31 @@ export class CyborgSoundService {
   }
 
   async playWrongSound(): Promise<void> {
+    await this.initAudio();
     await this.playTone(180, 0, 0.2, 'sawtooth');
     await this.playTone(120, 0.15, 0.25, 'sawtooth');
   }
 
   async playCorrectSound(): Promise<void> {
+    await this.initAudio();
     await this.playTone(600, 0, 0.15, 'sine');
     await this.playTone(800, 0.15, 0.2, 'sine');
+  }
+
+
+  async playWinSound() {
+    await this.initAudio();
+    await this.playTone(523, 0, 0.12, "triangle", 0.04);
+    await this.playTone(659, 0.14, 0.12, "triangle", 0.04);
+    await this.playTone(784, 0.28, 0.14, "triangle", 0.04);
+    await this.playTone(1046, 0.44, 0.22, "triangle", 0.05);
+  }
+
+  async playLoseSound() {
+    await this.initAudio();
+    await this.playTone(340, 0, 0.12, "sawtooth", 0.03);
+    await this.playTone(280, 0.15, 0.12, "sawtooth", 0.03);
+    await this.playTone(220, 0.30, 0.2, "sawtooth", 0.03);
   }
   
 

@@ -78,7 +78,12 @@ export class CyborgQuestionComponent implements OnInit {
 
   onQuestionCompleted(event: any) {
     this.currentQuestionStatus.set(event);
-   
+  }
+
+  restartQuiz(){
+    this.currentQuestionIndex.set(0);
+    this._cyborgQuizStoreService.setQuestionsStat({ score: 0, hint: 0 });
+    
   }
 
   onClickHint() {

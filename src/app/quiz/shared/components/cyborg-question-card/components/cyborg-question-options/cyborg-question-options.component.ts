@@ -63,21 +63,23 @@ export class CyborgQuestionOptionsComponent  {
         this._cyborgStoreService.setCounter({status: 'completed'})
       }
       let aiMessage: AiFeedStore;
-      this._cyborgSoundServive.initAudio().then(()=> {
-        if (arraysEqual(this.selectedOpts, this.correctOptsIndex)){
-          this._cyborgSoundServive.playCorrectSound();
-          aiMessage =  { type: 'correct' ,... randomArrayItem(AI_MESSAGES.win) };
-          this._cyborgStoreService.setQuestionsStat({score: (this._cyborgStoreService.questionsStat()?.score || 0) + 1})
-        } else {
-          if (this._cyborgStoreService.getCounter().counter > 0) {
-            aiMessage =  { type: 'wrong' ,...randomArrayItem(AI_MESSAGES.wrong) };
-          }else {
-            aiMessage =   { type: 'timeout' ,... randomArrayItem(AI_MESSAGES.timeout) };
-          }
-          this._cyborgSoundServive.playWrongSound();
+      // this._cyborgSoundServive.initAudio().then(()=> {
+        
+      // })
+
+      if (arraysEqual(this.selectedOpts, this.correctOptsIndex)){
+        await this._cyborgSoundServive.playCorrectSound();
+        aiMessage =  { type: 'correct' ,... randomArrayItem(AI_MESSAGES.win) };
+        this._cyborgStoreService.setQuestionsStat({score: (this._cyborgStoreService.questionsStat()?.score || 0) + 1})
+      } else {
+        if (this._cyborgStoreService.getCounter().counter > 0) {
+          aiMessage =  { type: 'wrong' ,...randomArrayItem(AI_MESSAGES.wrong) };
+        }else {
+          aiMessage =   { type: 'timeout' ,... randomArrayItem(AI_MESSAGES.timeout) };
         }
-        this._cyborgStoreService.setAiFeed(aiMessage)
-      })
+        await this._cyborgSoundServive.playWrongSound();
+      }
+      this._cyborgStoreService.setAiFeed(aiMessage)
       this.onQuestionCompleted.emit('completed')
       this._cdr.detectChanges();
     }

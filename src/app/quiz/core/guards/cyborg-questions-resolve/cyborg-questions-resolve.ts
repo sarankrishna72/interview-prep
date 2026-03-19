@@ -15,7 +15,7 @@ export const cyborgQuestionResolver: ResolveFn<any> = (route, state) => {
     _cyborgQuizStoreService.setQuestionsStat({category: questionCategory})
     return _cyborgQuizService.getCategoryQuestions(questionCategory).pipe(map((questions: Question[]) => {
         return shuffleArray(questions)
-            .filter((q: Question) => (!config?.difficulty || q.difficulty === config.difficulty) &&  q.question_type == "multi-answer")
+            .filter((q: Question) => (!config?.difficulty || q.difficulty === config.difficulty))
             .slice(0, config?.noOfQuestions ?? 5)
     }));
     
