@@ -86,7 +86,6 @@ app-root {
 body {
   @include font-family-inter;
   min-height: 100%;
-  // height: auto;
   color: var(--text);
   background:
     radial-gradient(circle at 12% 18%, rgba(0, 240, 255, 0.08), transparent 18%),

@@ -7,6 +7,7 @@ import { QuizSearchPipe } from '../../../../shared/pipe/quiz-search/quiz-search.
 import { FormsModule } from '@angular/forms';
 import { CyborgQuizStoreService } from '../../../../shared/services/cyborg-quiz-store/cyborg-quiz-store.service';
 import { Difficulty } from '../../../../models/common.model';
+import { ActivatedRoute, Router } from '@angular/router';
 
 @Component({
   selector: 'cyborg-quiz-setup',
@@ -31,7 +32,10 @@ export class CyborgQuizSetupComponent implements OnChanges {
   selectedCategory: any = null;
   noOfQuestions: any = 10;
   selectedDifficulty: Difficulty = 'easy';
-  _cyborgQuizStoreService = inject(CyborgQuizStoreService)
+  _cyborgQuizStoreService = inject(CyborgQuizStoreService);
+  _router = inject(Router);
+  _activatedRoute = inject(ActivatedRoute)
+
 
   constructor() { }
 
@@ -43,23 +47,26 @@ export class CyborgQuizSetupComponent implements OnChanges {
     this.selectedDifficulty = difficulty;
   }
 
-  setDefualtCategory() {
+  setDefaultCategory() {
     this.selectedCategory = this.categories()?.[0]?.id;
   }
 
   onReset() {
-    this.selectedCategory = this.categories()?.[0]?.id;
+    this.setDefaultCategory();
     this.selectedDifficulty = 'easy';
     this.noOfQuestions = 10;
   }
 
   onSubmit() {
-    this._cyborgQuizStoreService
+    this._cyborgQuizStoreService.setSelectedSetup({category: this.selectedCategory, difficulty: this.selectedDifficulty, noOfQuestions: this.noOfQuestions});
+    this._router.navigate([`../${this.selectedCategory}/questions`], {
+      relativeTo: this._activatedRoute
+    });
   }
 
   ngOnChanges(changes: SimpleChanges): void {
     if (changes['categories'] && this.categories()) {
-      this.setDefualtCategory();
+      this.setDefaultCategory();
     }
   }
 

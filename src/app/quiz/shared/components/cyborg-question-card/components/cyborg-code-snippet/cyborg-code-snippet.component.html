@@ -2,9 +2,9 @@
   <div class="cyborg-code-header">
     <cyborg-text [textConfig]="{size: 'xs', color: 'accent', family: 'orbitron'}">Code</cyborg-text>
   </div>
-  <div class="cyborg-code-block">
+  <div class="cyborg-code-block flex items-center">
     <!-- Code content start here -->
-     <pre><code [innerHTML]="codeSnippet"></code></pre>
+     <pre><code [innerHTML]="codeSnippet()"></code></pre>
     <!-- Code content end here -->
 
   </div>

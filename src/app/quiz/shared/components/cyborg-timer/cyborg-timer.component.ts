@@ -1,5 +1,6 @@
-import { AfterViewInit, ChangeDetectionStrategy, Component, computed, input, OnInit, signal } from '@angular/core';
+import { AfterViewInit, ChangeDetectionStrategy, Component, computed, effect, inject, input, OnInit, signal } from '@angular/core';
 import { CyborgTextComponent } from '../cyborg-text/cyborg-text.component';
+import { CyborgQuizStoreService } from '../../services/cyborg-quiz-store/cyborg-quiz-store.service';
 
 @Component({
   selector: 'cyborg-timer',
@@ -8,22 +9,31 @@ import { CyborgTextComponent } from '../cyborg-text/cyborg-text.component';
   changeDetection: ChangeDetectionStrategy.OnPush,
   imports: [CyborgTextComponent]
 })
-export class CyborgTimerComponent implements AfterViewInit {
-  currentTimer = input<number>(25);
-  counter = signal<number>(this.currentTimer());
-  timerProgress = computed(() => (this.counter() / this.currentTimer()) * 100);
+export class CyborgTimerComponent {
+  _cyborgStoreService = inject(CyborgQuizStoreService)
+  initialTimerVal: number | null = null;
+  timerProgress = computed(() => (this._cyborgStoreService.getCounter().counter / this.initialTimerVal!) * 100);
 
-  constructor() { }
+  constructor() {
+   effect(() => {
+    const counterState = this._cyborgStoreService.getCounter();
+    if (counterState &&( !this.initialTimerVal || counterState.status == 'reset')) {
+      this.initialTimerVal = counterState.counter;
+      this.runTimer();
+    }
+   })
+  }
 
-  ngAfterViewInit(): void {
+  runTimer() {
     const timerInterval = setInterval(() => {
-      if (this.counter() > 0) {
-          this.counter.update((prev: number) => prev - 1);
+      const counterVal = this._cyborgStoreService.getCounter();
+      if (counterVal?.counter > 0 && counterVal.status != 'completed') {
+        this._cyborgStoreService.setCounter({counter: counterVal.counter - 1, status: 'inprogress'});
       } else {
+        this._cyborgStoreService.setCounter({counter: (counterVal.status == 'completed' && counterVal.counter > 0) ? counterVal.counter : 0, status: 'completed'});
         clearInterval(timerInterval);
       }
     }, 1000);
-   
   }
 
 }

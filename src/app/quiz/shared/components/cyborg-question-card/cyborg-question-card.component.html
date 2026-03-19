@@ -4,13 +4,14 @@
     <div class="cyborg-scan h-[8px]"></div>
   </div>
   <div>
-    <cyborg-text [textConfig]="{size: 'md', family: 'orbitron', color: 'primary'}">Which HTML element is used to display an image?</cyborg-text>
+    <cyborg-text textClass="tracking-[1px] !text-[18px]" [textConfig]="{weight: 600, family: 'inter', color: 'primary'}">
+      {{ question().question }}
+    </cyborg-text>
     <div class="cyborg-divider"></div>
-    <!-- <cyborg-code-snippet></cyborg-code-snippet> -->
-    <div class="grid gap-4">
-      <cyborg-question-option></cyborg-question-option>
-      <cyborg-question-option></cyborg-question-option>
-    </div>
-    
+    @if(question().code) {
+      <cyborg-code-snippet [codeSnippet]="question().code"></cyborg-code-snippet>
+    }
+    <!--  -->
+    <cyborg-question-options [question]="question()" (onQuestionCompleted)="onQuestionValidated($event)"></cyborg-question-options>
   </div>
 </cyborg-card>

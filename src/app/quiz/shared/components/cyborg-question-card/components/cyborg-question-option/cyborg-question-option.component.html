@@ -1,9 +1,14 @@
-<div class="cyborg-question-option p-3 relative gap-4 flex items-center overflow-hidden cursor-pointer">
+<div class="cyborg-question-option select-none p-3 relative gap-4 flex scanning items-center overflow-hidden cursor-pointer" (click)="onOptClick()" [ngClass]="{
+  'selected': !correctOptsIndex().length && selectedOpts().includes(optIndex()), 
+  'correct': correctOptsIndex().length && correctOptsIndex().includes(optIndex()),
+  'wrong shake': correctOptsIndex().length && !correctOptsIndex().includes(optIndex()) && (selectedOpts().includes(optIndex())),
+  'pointer-events-none': correctOptsIndex().length
+}">
   <div class="matrix-overlay"></div>
   <div class="matrix-scanline"></div>
   <div class="cyborg-question-option-code h-[40px] min-w-[40px]">
-    <cyborg-text [textConfig]="{size: 'sm', family: 'orbitron'}">A</cyborg-text>
+    <cyborg-text [textConfig]="{size: 'sm', family: 'orbitron'}">{{optionCode()}}</cyborg-text>
   </div>
-  <cyborg-text class="flex-1" textClass="!leading-[1.55]" [textConfig]="{size: 'md', color: 'primary', family: 'inter'}">Img</cyborg-text>
+  <cyborg-text class="flex-1" textClass="!leading-[1.55]" [textConfig]="{size: 'sm', color: 'primary', family: 'inter'}">{{option()}}</cyborg-text>
   <cyborg-text textClass="opacity-[.35] tracking-[1px] uppercase" [textConfig]="{size: 'xxs', color: 'accent', family: 'orbitron'}">Scan</cyborg-text>
 </div>
