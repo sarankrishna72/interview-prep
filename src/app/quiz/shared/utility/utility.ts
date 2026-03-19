@@ -10,9 +10,9 @@ export const shuffleArray = (array: any[]) => {
 export const arraysEqual = (a: any[], b: any[]): boolean => {
   if (a.length !== b.length) return false;
 
-  return a.every((value, index) => value === b[index]);
+  return a.every((value, index) => b.includes(value));
 }
 
-export const randomArrayItem = (arr = []) => {
+export const randomArrayItem = (arr : any = []) => {
       return arr[Math.floor(Math.random() * arr.length)];
     }

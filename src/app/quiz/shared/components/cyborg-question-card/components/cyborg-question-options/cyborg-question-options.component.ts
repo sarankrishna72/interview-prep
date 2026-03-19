@@ -5,8 +5,10 @@ import { Question } from '../../../../../models/quiz.models';
 import { CyborgButtonComponent } from '../../../cyborg-button/cyborg-button.component';
 import { CyborgTextComponent } from '../../../cyborg-text/cyborg-text.component';
 import { CyborgQuizStoreService } from '../../../../services/cyborg-quiz-store/cyborg-quiz-store.service';
-import { arraysEqual } from '../../../../utility/utility';
+import { arraysEqual, randomArrayItem } from '../../../../utility/utility';
 import { CyborgSoundService } from '../../../../services/cyborg-sound/cyborg-sound.service';
+import { AI_MESSAGES } from '../../../../../data/ai.data';
+import { AiFeedStore } from '../../../../../models/common.model';
 
 @Component({
   selector: 'cyborg-question-options',
@@ -40,8 +42,13 @@ export class CyborgQuestionOptionsComponent  {
 
   onOptSelect(event: any) {
     if (this.question().question_type === 'multi-answer') {
-      this.selectedOpts.push(event);
-      this.selectedOpts = [...new Set(this.selectedOpts)];
+      if ( this.selectedOpts.includes(event)) {
+        this.selectedOpts = this.selectedOpts.filter(c => c != event);
+      } else {
+        this.selectedOpts.push(event);
+        this.selectedOpts = [...new Set(this.selectedOpts)];
+      }
+      
       return;
     }
     this.selectedOpts = [event];
@@ -51,17 +58,25 @@ export class CyborgQuestionOptionsComponent  {
   async onQuestionSubmission() {
     if (this._cyborgStoreService.getCounter().status != 'completed') {
       this.correctOptsIndex = this.question().correctIndex!;
+     
       if (this._cyborgStoreService.getCounter().counter > 0) {
         this._cyborgStoreService.setCounter({status: 'completed'})
       }
-
+      let aiMessage: AiFeedStore;
       this._cyborgSoundServive.initAudio().then(()=> {
         if (arraysEqual(this.selectedOpts, this.correctOptsIndex)){
           this._cyborgSoundServive.playCorrectSound();
+          aiMessage =  { type: 'correct' ,... randomArrayItem(AI_MESSAGES.win) };
           this._cyborgStoreService.setQuestionsStat({score: (this._cyborgStoreService.questionsStat()?.score || 0) + 1})
         } else {
+          if (this._cyborgStoreService.getCounter().counter > 0) {
+            aiMessage =  { type: 'wrong' ,...randomArrayItem(AI_MESSAGES.wrong) };
+          }else {
+            aiMessage =   { type: 'timeout' ,... randomArrayItem(AI_MESSAGES.timeout) };
+          }
           this._cyborgSoundServive.playWrongSound();
         }
+        this._cyborgStoreService.setAiFeed(aiMessage)
       })
       this.onQuestionCompleted.emit('completed')
       this._cdr.detectChanges();

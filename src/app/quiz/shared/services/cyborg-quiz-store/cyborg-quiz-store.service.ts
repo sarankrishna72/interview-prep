@@ -10,10 +10,11 @@ export class CyborgQuizStoreService {
   private _counter = signal<CounterStore>({counter: 0, status: 'not started'});
   private _aiFeed = signal<AiFeedStore | null>(null)
   private _questionsStat = signal<QuizResult>({
-    question: "",
     score: 0,
     category: "",
-    status: "Active"
+    status: "Active",
+    hint: 0,
+    totalQuestions: 0
   })
   public readonly selectedSetup = this._selectedSetup;
   public readonly questionsStat = this._questionsStat;
@@ -32,8 +33,13 @@ export class CyborgQuizStoreService {
     this._counter.update( prev => ({...prev, ...val}) as CounterStore);
   }
 
-  setAiFeed(val : Partial<AiFeedStore>) {
-    this._aiFeed.update(prev => ({...prev, ...val} as AiFeedStore));
+  setAiFeed(val : (Partial<AiFeedStore> | null)) {
+    if (val) {
+      this._aiFeed.update(prev => ({...prev, ...val} as AiFeedStore));
+    } else {
+      this._aiFeed.set(null)
+    }
+    
   }
 
 
