@@ -65,7 +65,7 @@
       <cyborg-button btnType="danger" (onClick)="backToHome()">
         <cyborg-text [textConfig]="{size: 'xs', family: 'orbitron', color: 'primary'}" textClass="uppercase block w-full">Back Home</cyborg-text>
       </cyborg-button>
-      <cyborg-button btnType="secondary">
+      <cyborg-button btnType="secondary" (onClick)="restartQuiz()">
         <cyborg-text [textConfig]="{size: 'xs', family: 'orbitron', color: 'primary'}" textClass="uppercase block w-full">Restart Quiz</cyborg-text>
       </cyborg-button>
       <cyborg-button [disabled]="hintUsed()[currentQuestion.id] == 1 || currentQuestionStatus() == 'completed'" (onClick)="onClickHint()" btnType="secondary">

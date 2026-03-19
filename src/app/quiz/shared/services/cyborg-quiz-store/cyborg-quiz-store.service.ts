@@ -25,8 +25,18 @@ export class CyborgQuizStoreService {
     this._selectedSetup.set(val);
   }
 
-  setQuestionsStat(val: Partial<QuizResult>) {
-    this._questionsStat.update(prev => ({...prev, ...val} as QuizResult));
+  setQuestionsStat(val: Partial<QuizResult> | null) {
+    if (val) {
+      this._questionsStat.update(prev => ({...prev, ...val} as QuizResult));
+    } else {
+      this._questionsStat.set({
+        score: 0,
+        category: "",
+        status: "Active",
+        hint: 0,
+        totalQuestions: 0
+      })
+    }
   }
 
   setCounter(val: Partial<CounterStore>) {
