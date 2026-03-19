@@ -45,7 +45,7 @@ export class CyborgQuestionComponent implements OnInit {
     { label: 'Score', id: 'score' },
     { label: 'Question', id: 'totalQuestions' },
     { label: 'Category', id: 'category' },
-    { label: 'Status', id: 'status' }
+    { label: 'Difficulty', id: 'difficulty' }
   ];
   questionsSummary: QuizResult | null = null;
   progressPercentage: number = 0; 
@@ -83,7 +83,7 @@ export class CyborgQuestionComponent implements OnInit {
   restartQuiz(){
     this.currentQuestionIndex.set(0);
     this._cyborgQuizStoreService.setQuestionsStat({ score: 0, hint: 0 });
-    
+
   }
 
   onClickHint() {
@@ -103,7 +103,7 @@ export class CyborgQuestionComponent implements OnInit {
 
   ngOnInit() {
     this.questions =  this._activateRoute.snapshot.data['questions'];
-    this._cyborgQuizStoreService.setQuestionsStat({ totalQuestions: this.questions.length });
+    this._cyborgQuizStoreService.setQuestionsStat({ totalQuestions: this.questions.length , difficulty: this._cyborgQuizStoreService.selectedSetup()?.difficulty || 'easy' });
   }
 
 }
