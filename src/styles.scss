@@ -621,6 +621,11 @@ body::after {
   }
 }
 
+.cyber-btn.warning {
+  background: linear-gradient(180deg, rgba(118, 62, 27, 0.95), rgba(28, 12, 14, 1));
+  box-shadow: inset 0 0 0 1px rgba(255, 200, 120, 0.08), 0 0 12px rgba(255, 115, 34, 0.2), 0 0 24px rgba(255, 115, 34, 0.08);
+}
+
     // .home-grid {
     //   display: grid;
     //   grid-template-columns: 1.02fr 0.98fr;

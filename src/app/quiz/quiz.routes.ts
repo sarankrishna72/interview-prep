@@ -1,5 +1,6 @@
 import { Routes } from '@angular/router';
 import { cyborgQuestionResolver } from './core/guards/cyborg-questions-resolve/cyborg-questions-resolve';
+import { summaryActivate } from './core/guards/cyborg-summary-canactivate/cyborg-summary-canactivate';
 
 export const QUIZ_ROUTES: Routes = [
   {
@@ -19,6 +20,12 @@ export const QUIZ_ROUTES: Routes = [
                 questions: cyborgQuestionResolver
             },
             pathMatch: 'full'
+        },
+        {
+            path: 'summary',
+            loadComponent: () =>
+            import('./screens/cyborg-question-summary/cyborg-question-summary.component').then(m => m.CyborgQuestionSummaryComponent),
+            canActivate: [summaryActivate]
         },
         {
             path: '',

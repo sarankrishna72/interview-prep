@@ -10,6 +10,9 @@ import { CyborgTimerComponent } from '../../shared/components/cyborg-timer/cybor
 import { ActivatedRoute, Router } from '@angular/router';
 import { Question, QuizResult, StatCardKeys } from '../../models/quiz.models';
 import { CyborgQuizStoreService } from '../../shared/services/cyborg-quiz-store/cyborg-quiz-store.service';
+import { randomArrayItem } from '../../shared/utility/utility';
+import { AI_MESSAGES } from '../../data/ai.data';
+import { AiFeedStore } from '../../models/common.model';
 
 type StatCard = {
   label: string;
@@ -40,17 +43,16 @@ export class CyborgQuestionComponent implements OnInit {
   questions: Question[] = [];
   statCards: StatCard[] = [
     { label: 'Score', id: 'score' },
-    { label: 'Question', id: 'question' },
+    { label: 'Question', id: 'totalQuestions' },
     { label: 'Category', id: 'category' },
     { label: 'Status', id: 'status' }
   ];
-  
-
   questionsSummary: QuizResult | null = null;
   progressPercentage: number = 0; 
   currentQuestionIndex = signal<number>(0);
   currentQuestion!: Question;
-  currentQuestionStatus : 'inprogress' | 'completed' = 'inprogress';
+  currentQuestionStatus =  signal<'inprogress' | 'completed'>('inprogress');
+  hintUsed = signal<any>({});
   constructor() {
     effect(() => {
       if ((this.currentQuestionIndex() + 1) > 0) {
@@ -65,25 +67,38 @@ export class CyborgQuestionComponent implements OnInit {
   }
 
   onClickNextCTA() {
-    if (this.questions.length > this.currentQuestionIndex()) {
+    if (this.questions.length > this.currentQuestionIndex() + 1) {
+      this._cyborgQuizStoreService.setAiFeed(null)
       this.currentQuestionIndex.update((prev) => ((prev || 0) + 1));
+      this.onQuestionCompleted('inprogress')
+    } else {
+      this._router.navigate(['quiz/summary'])
     }
   }
 
   onQuestionCompleted(event: any) {
-    this.currentQuestionStatus = event;
+    this.currentQuestionStatus.set(event);
+   
+  }
+
+  onClickHint() {
+    this.hintUsed.update(prev => ({...prev, ... {[this.currentQuestion.id]: 1 } }));
+    const questionStat = this._cyborgQuizStoreService.questionsStat();
+    this._cyborgQuizStoreService.setQuestionsStat({ hint: (questionStat.hint || 0) + 1  });
+    const aiMessage =  randomArrayItem(AI_MESSAGES.hint) as Partial<AiFeedStore>;
+    this._cyborgQuizStoreService.setAiFeed({type: 'hint', ...aiMessage})
   }
 
   setProgressAndCurrentQuestionPercentage() {
     this.progressPercentage = Math.round(((this.currentQuestionIndex() + 1) / this.questions.length) * 100);
     this.currentQuestion = this.questions[this.currentQuestionIndex()];
     this._cyborgQuizStoreService.setCounter({counter: 20, status: 'reset'});
-    this._cyborgQuizStoreService.setQuestionsStat({question: `${this.currentQuestionIndex() + 1} of ${this.questions.length}`})
   }
  
 
   ngOnInit() {
     this.questions =  this._activateRoute.snapshot.data['questions'];
+    this._cyborgQuizStoreService.setQuestionsStat({ totalQuestions: this.questions.length });
   }
 
 }

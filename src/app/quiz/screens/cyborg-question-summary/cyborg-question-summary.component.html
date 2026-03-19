@@ -1,0 +1,53 @@
+<section id="resultScreen" class="result-screen">
+    <div class="result-icon" id="resultIcon">💥</div>
+    <cyborg-text  textClass="my-4" [textConfig]="{size: 'xl', family: 'orbitron', color: 'primary' }">SYSTEM NEEDS PATCHING</cyborg-text>
+    <cyborg-text textClass="mt-3 mb-6" [textConfig]="{size: 'md', family: 'inter', color: 'secondary' }">assessment sequence has ended. Final performance data is displayed below.</cyborg-text>
+    <div class="result-score" id="finalScore">You scored {{_cyborgQuizStore.questionsStat().score }} out of {{ _cyborgQuizStore.questionsStat().totalQuestions }}</div>
+    <div class="grid gap-4 mb-6 mt-3 grid-cols-[repeat(4,_minmax(150px,_1fr))]">
+      <cyborg-stat-card>
+        <div stat-label>Correct</div>
+        <div class="cyborg-text-color-primary" stat-body>{{_cyborgQuizStore.questionsStat().score }}</div>
+      </cyborg-stat-card>
+      <cyborg-stat-card>
+        <div stat-label>Wrong</div>
+        <div class="cyborg-text-color-primary" stat-body>{{ _cyborgQuizStore.questionsStat().totalQuestions  - _cyborgQuizStore.questionsStat().score }}</div>
+      </cyborg-stat-card>
+      <cyborg-stat-card>
+        <div stat-label>Accuracy</div>
+        <div class="cyborg-text-color-primary" stat-body>{{(_cyborgQuizStore.questionsStat().score/ _cyborgQuizStore.questionsStat().totalQuestions) * 100}}%</div>
+      </cyborg-stat-card>
+      <cyborg-stat-card>
+        <div stat-label>Hints Used</div>
+        <div class="cyborg-text-color-primary" stat-body>{{_cyborgQuizStore.questionsStat().hint}}</div>
+      </cyborg-stat-card>
+    </div>
+    <!-- <div class="summary-grid">
+      <div class="summary-card">
+        <div class="summary-label">Correct</div>
+        <div class="summary-value" id="summaryCorrect">1</div>
+      </div>
+      <div class="summary-card">
+        <div class="summary-label">Wrong</div>
+        <div class="summary-value" id="summaryWrong">4</div>
+      </div>
+      <div class="summary-card">
+        <div class="summary-label">Accuracy</div>
+        <div class="summary-value" id="summaryAccuracy">20%</div>
+      </div>
+      <div class="summary-card">
+        <div class="summary-label">Hints Used</div>
+        <div class="summary-value" id="summaryHints">0</div>
+      </div>
+    </div> -->
+
+    <div class="funny-result-box" id="funnyResultText">That quiz hit back. Hard. But legends are built on retries, snacks, and mild embarrassment.</div>
+    <div class="flex justify-center gap-4">
+      <cyborg-button  btnType="primary">
+        <cyborg-text [textConfig]="{size: 'xs', family: 'orbitron', color: 'primary'}" textClass="uppercase block w-full">Back To HOME</cyborg-text>
+      </cyborg-button>
+    </div>
+    <!-- <div class="start-actions" style="justify-content:center;">
+      <button class="btn" id="resultHomeBtn">Home</button>
+      <button class="btn btn-primary" id="playAgainBtn">Reinitialize</button>
+    </div> -->
+  </section>

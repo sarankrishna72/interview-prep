@@ -1,4 +1,4 @@
-<button class="cyber-btn" (click)="onButtonClick()" [ngClass]="btnType()">
+<button [disabled]="disabled()" class="cyber-btn" (click)="onButtonClick()" [ngClass]="btnType()">
   @if (btnLabel()) {
     {{ btnLabel() }}  
   } @else {

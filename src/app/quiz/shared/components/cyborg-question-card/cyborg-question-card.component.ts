@@ -1,4 +1,4 @@
-import { ChangeDetectionStrategy, ChangeDetectorRef, Component, inject, input, OnChanges, OnInit, output, SimpleChanges } from '@angular/core';
+import { Component, input, output} from '@angular/core';
 import { CyborgCardComponent } from "../cyborg-card/cyborg-card.component";
 import { CyborgTextComponent } from '../cyborg-text/cyborg-text.component';
 import { CyborgCodeSnippetComponent } from './components/cyborg-code-snippet/cyborg-code-snippet.component';
@@ -14,20 +14,13 @@ import { CyborgQuestionOptionsComponent } from './components/cyborg-question-opt
     CyborgCodeSnippetComponent, CyborgQuestionOptionsComponent
   ],
 })
-export class CyborgQuestionCardComponent implements OnChanges {
+export class CyborgQuestionCardComponent {
   question = input.required<Question>();
   onQuestionCompleted = output<any>();
-
-  _cdr = inject(ChangeDetectorRef)
   constructor() { }
 
   onQuestionValidated(event: any) {
     this.onQuestionCompleted.emit('completed')
   }
-
- ngOnChanges(changes: SimpleChanges): void {
-   if (changes['question'] && changes['question'].currentValue) {
-   }
- }
 
 }

@@ -13,6 +13,7 @@ import { CommonModule } from '@angular/common';
 export class CyborgButtonComponent implements OnInit {
   btnType = input<ButtonType>('');
   btnLabel = input<string>('');
+  disabled = input<boolean>(false);
   onClick = output<any>();
   constructor() { }
 

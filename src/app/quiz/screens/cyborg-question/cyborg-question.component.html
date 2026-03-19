@@ -24,7 +24,7 @@
                 {{ item.label }}
               </cyborg-text>
             </div>
-            <div class="capitalize" stat-body>{{ _cyborgQuizStoreService.questionsStat()[item.id] }}</div>
+            <div class="capitalize" stat-body>{{ item.id == 'totalQuestions' ? (this.currentQuestionIndex() + 1) + ' of ' + _cyborgQuizStoreService.questionsStat()['totalQuestions'] : _cyborgQuizStoreService.questionsStat()[item.id] }}</div>
           </cyborg-stat-card>
         }
       </div>
@@ -33,7 +33,7 @@
   <div class="w-full mb-5">
     <cyborg-progressbar [progress]="progressPercentage">
       <div progress-header>
-        <cyborg-text [textConfig]="{size: 'xs', family: 'orbitron', color: 'secondary'}">{{ 'Question ' + _cyborgQuizStoreService.questionsStat()['question'] }}</cyborg-text>
+        <cyborg-text [textConfig]="{size: 'xs', family: 'orbitron', color: 'secondary'}">{{ 'Question ' + (this.currentQuestionIndex() + 1) + ' of ' + _cyborgQuizStoreService.questionsStat()['totalQuestions']  }}</cyborg-text>
       </div>
     </cyborg-progressbar>
   </div>
@@ -49,11 +49,11 @@
           Analyzing question {{currentQuestionIndex() + 1 }}. Choose valid answer.
         </cyborg-text>
       </cyborg-card>
-      <!-- <cyborg-card class="mt-5 block" cardType="secondary"  cardTitle="Hint Status">
+      <cyborg-card class="mt-5 block" cardType="secondary"  cardTitle="Hint Status">
         <cyborg-text [textConfig]="{size: 'md', color: 'primary', family: 'inter'}">
-          Time expired. Correct answer revealed.
+          {{ hintUsed()[questions[currentQuestionIndex()].id] ? currentQuestion.hint :'Hint available for this question.'}}
         </cyborg-text>
-      </cyborg-card> -->
+      </cyborg-card>
       <cyborg-card class="mt-5 block" cardType="secondary"  cardTitle="AI Sidekick">
         <cyborg-ai-sidekick></cyborg-ai-sidekick>
       </cyborg-card>
@@ -68,10 +68,10 @@
       <cyborg-button btnType="secondary">
         <cyborg-text [textConfig]="{size: 'xs', family: 'orbitron', color: 'primary'}" textClass="uppercase block w-full">Restart Quiz</cyborg-text>
       </cyborg-button>
-      <cyborg-button btnType="secondary">
+      <cyborg-button [disabled]="hintUsed()[currentQuestion.id] == 1 || currentQuestionStatus() == 'completed'" (onClick)="onClickHint()" btnType="secondary">
         <cyborg-text [textConfig]="{size: 'xs', family: 'orbitron', color: 'primary'}" textClass="uppercase block w-full">Hint</cyborg-text>
       </cyborg-button>
-      <cyborg-button (onClick)="onClickNextCTA()" btnType="primary">
+      <cyborg-button [disabled]="currentQuestionStatus() != 'completed'" (onClick)="onClickNextCTA()" btnType="primary">
         <cyborg-text [textConfig]="{size: 'xs', family: 'orbitron', color: 'primary'}" textClass="uppercase block w-full">Next Target</cyborg-text>
       </cyborg-button>
     </div>
