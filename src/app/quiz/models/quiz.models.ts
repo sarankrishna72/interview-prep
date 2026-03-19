@@ -27,12 +27,12 @@ export type ScreenMode = 'home' | 'quiz' | 'result';
 
 export type SelectedSetup = {category: string, difficulty: Difficulty, noOfQuestions: any}
 
-export type StatCardKeys = 'totalQuestions' | 'score' | 'category' | 'status' | 'hint'
+export type StatCardKeys = 'totalQuestions' | 'score' | 'category' | 'difficulty' | 'hint'
 
 export type QuizResult = {
   score: number;
   category: string;
-  status: string;
+  difficulty: Difficulty;
   hint: number;
   totalQuestions: number;
 };

@@ -51,7 +51,7 @@
       </cyborg-card>
       <cyborg-card class="mt-5 block" cardType="secondary"  cardTitle="Hint Status">
         <cyborg-text [textConfig]="{size: 'md', color: 'primary', family: 'inter'}">
-          {{ hintUsed()[questions[currentQuestionIndex()].id] ? currentQuestion.hint :'Hint available for this question.'}}
+          {{ hintUsed()[currentQuestion.id] ? currentQuestion.hint :'Hint available for this question.'}}
         </cyborg-text>
       </cyborg-card>
       <cyborg-card class="mt-5 block" cardType="secondary"  cardTitle="AI Sidekick">
@@ -65,7 +65,7 @@
       <cyborg-button btnType="danger" (onClick)="backToHome()">
         <cyborg-text [textConfig]="{size: 'xs', family: 'orbitron', color: 'primary'}" textClass="uppercase block w-full">Back Home</cyborg-text>
       </cyborg-button>
-      <cyborg-button btnType="secondary" (onClick)="restartQuiz()">
+      <cyborg-button [disabled]="currentQuestionIndex() == 0" btnType="secondary" (onClick)="restartQuiz()">
         <cyborg-text [textConfig]="{size: 'xs', family: 'orbitron', color: 'primary'}" textClass="uppercase block w-full">Restart Quiz</cyborg-text>
       </cyborg-button>
       <cyborg-button [disabled]="hintUsed()[currentQuestion.id] == 1 || currentQuestionStatus() == 'completed'" (onClick)="onClickHint()" btnType="secondary">

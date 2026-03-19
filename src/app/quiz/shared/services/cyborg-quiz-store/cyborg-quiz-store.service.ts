@@ -12,7 +12,7 @@ export class CyborgQuizStoreService {
   private _questionsStat = signal<QuizResult>({
     score: 0,
     category: "",
-    status: "Active",
+    difficulty: "easy",
     hint: 0,
     totalQuestions: 0
   })
@@ -32,7 +32,7 @@ export class CyborgQuizStoreService {
       this._questionsStat.set({
         score: 0,
         category: "",
-        status: "Active",
+        difficulty: "easy",
         hint: 0,
         totalQuestions: 0
       })
