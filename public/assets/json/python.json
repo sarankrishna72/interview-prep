@@ -1,0 +1,3454 @@
+[
+  {
+    "id": 1,
+    "question": "Which symbol is used for assignment in Python?",
+    "options": [
+      "==",
+      "=",
+      "+=",
+      "=>"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python basics",
+    "hint": "Assignment uses one operator.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "= assigns a value to a variable.",
+    "code": "x = 10"
+  },
+  {
+    "id": 2,
+    "question": "In Python, the correct answer to this concept is: =.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python basics",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because = assigns a value to a variable.",
+    "code": "x = 10"
+  },
+  {
+    "id": 3,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "= is the correct answer.",
+      "= assigns a value to a variable.",
+      "== is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python basics",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "= assigns a value to a variable.",
+    "code": "x = 10"
+  },
+  {
+    "id": 4,
+    "question": "Which function prints text to the console in Python?",
+    "options": [
+      "echo()",
+      "print()",
+      "console.log()",
+      "write()"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python output",
+    "hint": "The built-in function writes to standard output.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "print() outputs values to standard output.",
+    "code": "print('Hello')"
+  },
+  {
+    "id": 5,
+    "question": "In Python, the correct answer to this concept is: print().",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python output",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because print() outputs values to standard output.",
+    "code": "print('Hello')"
+  },
+  {
+    "id": 6,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "print() is the correct answer.",
+      "print() outputs values to standard output.",
+      "echo() is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python output",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "print() outputs values to standard output.",
+    "code": "print('Hello')"
+  },
+  {
+    "id": 7,
+    "question": "Which literal creates a list in Python?",
+    "options": [
+      "{1,2,3}",
+      "(1,2,3)",
+      "[1,2,3]",
+      "<1,2,3>"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python lists",
+    "hint": "Lists use square brackets.",
+    "question_type": "mcq",
+    "correctIndex": [
+      2
+    ],
+    "explanation": "List literals use square brackets.",
+    "code": "nums = [1, 2, 3]"
+  },
+  {
+    "id": 8,
+    "question": "In Python, the correct answer to this concept is: [1,2,3].",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python lists",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because List literals use square brackets.",
+    "code": "nums = [1, 2, 3]"
+  },
+  {
+    "id": 9,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "[1,2,3] is the correct answer.",
+      "List literals use square brackets.",
+      "{1,2,3} is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python lists",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "List literals use square brackets.",
+    "code": "nums = [1, 2, 3]"
+  },
+  {
+    "id": 10,
+    "question": "Which literal creates a tuple in Python?",
+    "options": [
+      "[1,2]",
+      "{1,2}",
+      "(1,2)",
+      "tuple only via keyword is possible"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python tuples",
+    "hint": "Tuples are usually immutable.",
+    "question_type": "mcq",
+    "correctIndex": [
+      2
+    ],
+    "explanation": "Tuple literals use parentheses, although commas define tuples too."
+  },
+  {
+    "id": 11,
+    "question": "In Python, the correct answer to this concept is: (1,2).",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python tuples",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because Tuple literals use parentheses, although commas define tuples too."
+  },
+  {
+    "id": 12,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "(1,2) is the correct answer.",
+      "Tuple literals use parentheses, although commas define tuples too.",
+      "[1,2] is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python tuples",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "Tuple literals use parentheses, although commas define tuples too."
+  },
+  {
+    "id": 13,
+    "question": "Which literal creates a dictionary in Python?",
+    "options": [
+      "[]",
+      "()",
+      "{}",
+      "<>"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python dictionaries",
+    "hint": "Dictionaries store key-value pairs.",
+    "question_type": "mcq",
+    "correctIndex": [
+      2
+    ],
+    "explanation": "Curly braces with key-value pairs create a dictionary.",
+    "code": "user = {'name': 'Ana'}"
+  },
+  {
+    "id": 14,
+    "question": "In Python, the correct answer to this concept is: {}.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python dictionaries",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because Curly braces with key-value pairs create a dictionary.",
+    "code": "user = {'name': 'Ana'}"
+  },
+  {
+    "id": 15,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "{} is the correct answer.",
+      "Curly braces with key-value pairs create a dictionary.",
+      "[] is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python dictionaries",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "Curly braces with key-value pairs create a dictionary.",
+    "code": "user = {'name': 'Ana'}"
+  },
+  {
+    "id": 16,
+    "question": "Which is the boolean true value in Python?",
+    "options": [
+      "true",
+      "TRUE",
+      "True",
+      "1"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python booleans",
+    "hint": "Python uses capitalized boolean literals.",
+    "question_type": "mcq",
+    "correctIndex": [
+      2
+    ],
+    "explanation": "Python boolean literals are True and False."
+  },
+  {
+    "id": 17,
+    "question": "In Python, the correct answer to this concept is: True.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python booleans",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because Python boolean literals are True and False."
+  },
+  {
+    "id": 18,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "True is the correct answer.",
+      "Python boolean literals are True and False.",
+      "true is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python booleans",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "Python boolean literals are True and False."
+  },
+  {
+    "id": 19,
+    "question": "Which symbol starts a single-line comment in Python?",
+    "options": [
+      "//",
+      "#",
+      "--",
+      "/*"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python comments",
+    "hint": "Single-line comments begin with one character.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "# starts a single-line comment."
+  },
+  {
+    "id": 20,
+    "question": "In Python, the correct answer to this concept is: #.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python comments",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because # starts a single-line comment."
+  },
+  {
+    "id": 21,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "# is the correct answer.",
+      "# starts a single-line comment.",
+      "// is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python comments",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "# starts a single-line comment."
+  },
+  {
+    "id": 22,
+    "question": "Which function returns the length of a list in Python?",
+    "options": [
+      "count()",
+      "size()",
+      "len()",
+      "length()"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python length",
+    "hint": "Use a built-in function.",
+    "question_type": "mcq",
+    "correctIndex": [
+      2
+    ],
+    "explanation": "len() returns the number of items in a container."
+  },
+  {
+    "id": 23,
+    "question": "In Python, the correct answer to this concept is: len().",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python length",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because len() returns the number of items in a container."
+  },
+  {
+    "id": 24,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "len() is the correct answer.",
+      "len() returns the number of items in a container.",
+      "count() is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python length",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "len() returns the number of items in a container."
+  },
+  {
+    "id": 25,
+    "question": "Which method converts a string to lowercase in Python?",
+    "options": [
+      "lower()",
+      "toLower()",
+      "downcase()",
+      "small()"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python strings",
+    "hint": "Methods can change case.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "lower() returns a lowercase version of the string."
+  },
+  {
+    "id": 26,
+    "question": "In Python, the correct answer to this concept is: lower().",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python strings",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because lower() returns a lowercase version of the string."
+  },
+  {
+    "id": 27,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "lower() is the correct answer.",
+      "lower() returns a lowercase version of the string.",
+      "toLower() is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python strings",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "lower() returns a lowercase version of the string."
+  },
+  {
+    "id": 28,
+    "question": "Which punctuation ends an if statement header in Python?",
+    "options": [
+      ";",
+      "{",
+      ":",
+      "."
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python conditionals",
+    "hint": "Blocks end with punctuation.",
+    "question_type": "mcq",
+    "correctIndex": [
+      2
+    ],
+    "explanation": "Python compound statements end their header with a colon.",
+    "code": "if x > 0:\n    print(x)"
+  },
+  {
+    "id": 29,
+    "question": "In Python, the correct answer to this concept is: :.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python conditionals",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because Python compound statements end their header with a colon.",
+    "code": "if x > 0:\n    print(x)"
+  },
+  {
+    "id": 30,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      ": is the correct answer.",
+      "Python compound statements end their header with a colon.",
+      "; is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python conditionals",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "Python compound statements end their header with a colon.",
+    "code": "if x > 0:\n    print(x)"
+  },
+  {
+    "id": 31,
+    "question": "Which keyword starts a loop over items in Python?",
+    "options": [
+      "for",
+      "loop",
+      "iterate",
+      "foreach"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python loops",
+    "hint": "It iterates over sequences directly.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "for is used to iterate over iterables."
+  },
+  {
+    "id": 32,
+    "question": "In Python, the correct answer to this concept is: for.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python loops",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because for is used to iterate over iterables."
+  },
+  {
+    "id": 33,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "for is the correct answer.",
+      "for is used to iterate over iterables.",
+      "loop is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python loops",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "for is used to iterate over iterables."
+  },
+  {
+    "id": 34,
+    "question": "Which keyword defines a function in Python?",
+    "options": [
+      "function",
+      "def",
+      "fn",
+      "lambda"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python functions",
+    "hint": "Function definitions start with a keyword.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "def defines a named function.",
+    "code": "def greet(name):\n    return f'Hi {name}'"
+  },
+  {
+    "id": 35,
+    "question": "In Python, the correct answer to this concept is: def.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python functions",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because def defines a named function.",
+    "code": "def greet(name):\n    return f'Hi {name}'"
+  },
+  {
+    "id": 36,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "def is the correct answer.",
+      "def defines a named function.",
+      "function is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python functions",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "def defines a named function.",
+    "code": "def greet(name):\n    return f'Hi {name}'"
+  },
+  {
+    "id": 37,
+    "question": "Which keyword imports a module in Python?",
+    "options": [
+      "include",
+      "using",
+      "import",
+      "require"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python imports",
+    "hint": "Modules are loaded with one keyword.",
+    "question_type": "mcq",
+    "correctIndex": [
+      2
+    ],
+    "explanation": "import loads a module or names from a module."
+  },
+  {
+    "id": 38,
+    "question": "In Python, the correct answer to this concept is: import.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python imports",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because import loads a module or names from a module."
+  },
+  {
+    "id": 39,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "import is the correct answer.",
+      "import loads a module or names from a module.",
+      "include is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python imports",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "import loads a module or names from a module."
+  },
+  {
+    "id": 40,
+    "question": "What does 'hello'[1:4] return?",
+    "options": [
+      "hel",
+      "ell",
+      "ello",
+      "el"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python slicing",
+    "hint": "The stop index is excluded.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "Slicing from index 1 up to but not including 4 returns 'ell'.",
+    "code": "'hello'[1:4]"
+  },
+  {
+    "id": 41,
+    "question": "In Python, the correct answer to this concept is: ell.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python slicing",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because Slicing from index 1 up to but not including 4 returns 'ell'.",
+    "code": "'hello'[1:4]"
+  },
+  {
+    "id": 42,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "ell is the correct answer.",
+      "Slicing from index 1 up to but not including 4 returns 'ell'.",
+      "hel is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python slicing",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "Slicing from index 1 up to but not including 4 returns 'ell'.",
+    "code": "'hello'[1:4]"
+  },
+  {
+    "id": 43,
+    "question": "Which operator checks membership in Python?",
+    "options": [
+      "has",
+      "contains",
+      "in",
+      "inside"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python membership",
+    "hint": "The operator reads like English.",
+    "question_type": "mcq",
+    "correctIndex": [
+      2
+    ],
+    "explanation": "The in operator tests membership."
+  },
+  {
+    "id": 44,
+    "question": "In Python, the correct answer to this concept is: in.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python membership",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because The in operator tests membership."
+  },
+  {
+    "id": 45,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "in is the correct answer.",
+      "The in operator tests membership.",
+      "has is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python membership",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "The in operator tests membership."
+  },
+  {
+    "id": 46,
+    "question": "Which built-in creates an iterable sequence of integers?",
+    "options": [
+      "list()",
+      "range()",
+      "series()",
+      "span()"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python ranges",
+    "hint": "This function is often used in loops.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "range() produces an immutable sequence of integers.",
+    "code": "for i in range(3):\n    print(i)"
+  },
+  {
+    "id": 47,
+    "question": "In Python, the correct answer to this concept is: range().",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python ranges",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because range() produces an immutable sequence of integers.",
+    "code": "for i in range(3):\n    print(i)"
+  },
+  {
+    "id": 48,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "range() is the correct answer.",
+      "range() produces an immutable sequence of integers.",
+      "list() is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python ranges",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "range() produces an immutable sequence of integers.",
+    "code": "for i in range(3):\n    print(i)"
+  },
+  {
+    "id": 49,
+    "question": "Which keyword handles exceptions in Python?",
+    "options": [
+      "catch",
+      "except",
+      "error",
+      "rescue"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python exceptions",
+    "hint": "It catches errors.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "except handles exceptions raised in a try block."
+  },
+  {
+    "id": 50,
+    "question": "In Python, the correct answer to this concept is: except.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python exceptions",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because except handles exceptions raised in a try block."
+  },
+  {
+    "id": 51,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "except is the correct answer.",
+      "except handles exceptions raised in a try block.",
+      "catch is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python exceptions",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "except handles exceptions raised in a try block."
+  },
+  {
+    "id": 52,
+    "question": "Which function opens a file in Python?",
+    "options": [
+      "read()",
+      "file()",
+      "open()",
+      "load()"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python files",
+    "hint": "A built-in function opens files.",
+    "question_type": "mcq",
+    "correctIndex": [
+      2
+    ],
+    "explanation": "open() opens a file and returns a file object."
+  },
+  {
+    "id": 53,
+    "question": "In Python, the correct answer to this concept is: open().",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python files",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because open() opens a file and returns a file object."
+  },
+  {
+    "id": 54,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "open() is the correct answer.",
+      "open() opens a file and returns a file object.",
+      "read() is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python files",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "open() opens a file and returns a file object."
+  },
+  {
+    "id": 55,
+    "question": "Which function returns the type of a value?",
+    "options": [
+      "kind()",
+      "type()",
+      "typeof()",
+      "classOf()"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python types",
+    "hint": "It returns the type object of a value.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "type() returns the type of the given object."
+  },
+  {
+    "id": 56,
+    "question": "In Python, the correct answer to this concept is: type().",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python types",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because type() returns the type of the given object."
+  },
+  {
+    "id": 57,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "type() is the correct answer.",
+      "type() returns the type of the given object.",
+      "kind() is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python types",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "type() returns the type of the given object."
+  },
+  {
+    "id": 58,
+    "question": "Which list method adds a single item to the end of a list?",
+    "options": [
+      "extend()",
+      "append()",
+      "push()",
+      "insertEnd()"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python list methods",
+    "hint": "It adds an element to the end.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "append() adds one item to the end of a list."
+  },
+  {
+    "id": 59,
+    "question": "In Python, the correct answer to this concept is: append().",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python list methods",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because append() adds one item to the end of a list."
+  },
+  {
+    "id": 60,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "append() is the correct answer.",
+      "append() adds one item to the end of a list.",
+      "extend() is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "easy",
+    "description": "Python list methods",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "append() adds one item to the end of a list."
+  },
+  {
+    "id": 61,
+    "question": "Which of the following is mutable in Python?",
+    "options": [
+      "tuple",
+      "str",
+      "list",
+      "frozenset"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python mutability",
+    "hint": "Some built-in collections can change after creation.",
+    "question_type": "mcq",
+    "correctIndex": [
+      2
+    ],
+    "explanation": "Lists are mutable; tuples, strings, and frozensets are immutable."
+  },
+  {
+    "id": 62,
+    "question": "In Python, the correct answer to this concept is: list.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python mutability",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because Lists are mutable; tuples, strings, and frozensets are immutable."
+  },
+  {
+    "id": 63,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "list is the correct answer.",
+      "Lists are mutable; tuples, strings, and frozensets are immutable.",
+      "tuple is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python mutability",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "Lists are mutable; tuples, strings, and frozensets are immutable."
+  },
+  {
+    "id": 64,
+    "question": "What does [x*x for x in range(3)] produce?",
+    "options": [
+      "[1,4,9]",
+      "[0,1,4]",
+      "(0,1,4)",
+      "An iterator"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python comprehensions",
+    "hint": "They create collections concisely.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "The list comprehension squares 0, 1, and 2, producing [0, 1, 4].",
+    "code": "[x*x for x in range(3)]"
+  },
+  {
+    "id": 65,
+    "question": "In Python, the correct answer to this concept is: [0,1,4].",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python comprehensions",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because The list comprehension squares 0, 1, and 2, producing [0, 1, 4].",
+    "code": "[x*x for x in range(3)]"
+  },
+  {
+    "id": 66,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "[0,1,4] is the correct answer.",
+      "The list comprehension squares 0, 1, and 2, producing [0, 1, 4].",
+      "[1,4,9] is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python comprehensions",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "The list comprehension squares 0, 1, and 2, producing [0, 1, 4].",
+    "code": "[x*x for x in range(3)]"
+  },
+  {
+    "id": 67,
+    "question": "When is the global keyword needed inside a function?",
+    "options": [
+      "Whenever a global is read",
+      "Only when assigning to a global variable",
+      "Only in class methods",
+      "Never"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python scope",
+    "hint": "Reading global variables usually does not require a keyword.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "global is required when rebinding a name in the module/global scope from inside a function."
+  },
+  {
+    "id": 68,
+    "question": "In Python, the correct answer to this concept is: Only when assigning to a global variable.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python scope",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because global is required when rebinding a name in the module/global scope from inside a function."
+  },
+  {
+    "id": 69,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "Only when assigning to a global variable is the correct answer.",
+      "global is required when rebinding a name in the module/global scope from inside a function.",
+      "Whenever a global is read is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python scope",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "global is required when rebinding a name in the module/global scope from inside a function."
+  },
+  {
+    "id": 70,
+    "question": "Why are mutable default arguments often avoided in Python functions?",
+    "options": [
+      "They are slower to call",
+      "They are re-created on every call",
+      "They are evaluated once at function definition time and can retain state across calls",
+      "Python forbids them"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python default arguments",
+    "hint": "Mutable defaults can surprise you.",
+    "question_type": "mcq",
+    "correctIndex": [
+      2
+    ],
+    "explanation": "Mutable defaults are created once, so changes persist across calls."
+  },
+  {
+    "id": 71,
+    "question": "In Python, the correct answer to this concept is: They are evaluated once at function definition time and can retain state across calls.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python default arguments",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because Mutable defaults are created once, so changes persist across calls."
+  },
+  {
+    "id": 72,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "They are evaluated once at function definition time and can retain state across calls is the correct answer.",
+      "Mutable defaults are created once, so changes persist across calls.",
+      "They are slower to call is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python default arguments",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "Mutable defaults are created once, so changes persist across calls."
+  },
+  {
+    "id": 73,
+    "question": "In a, *rest = [1,2,3,4], what is rest?",
+    "options": [
+      "2",
+      "[2,3,4]",
+      "(2,3,4)",
+      "An error"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python unpacking",
+    "hint": "Asterisks can collect remaining items.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "The starred target captures the remaining items in a list."
+  },
+  {
+    "id": 74,
+    "question": "In Python, the correct answer to this concept is: [2,3,4].",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python unpacking",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because The starred target captures the remaining items in a list."
+  },
+  {
+    "id": 75,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "[2,3,4] is the correct answer.",
+      "The starred target captures the remaining items in a list.",
+      "2 is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python unpacking",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "The starred target captures the remaining items in a list."
+  },
+  {
+    "id": 76,
+    "question": "Which keyword creates an anonymous function in Python?",
+    "options": [
+      "anon",
+      "lambda",
+      "def",
+      "func"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python functions",
+    "hint": "Anonymous functions use one keyword.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "lambda creates a small anonymous function."
+  },
+  {
+    "id": 77,
+    "question": "In Python, the correct answer to this concept is: lambda.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python functions",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because lambda creates a small anonymous function."
+  },
+  {
+    "id": 78,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "lambda is the correct answer.",
+      "lambda creates a small anonymous function.",
+      "anon is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python functions",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "lambda creates a small anonymous function."
+  },
+  {
+    "id": 79,
+    "question": "What does iter(obj) return?",
+    "options": [
+      "A copy of obj",
+      "An iterator for obj",
+      "The length of obj",
+      "A generator only"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python iterators",
+    "hint": "Not all iterables are lists.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "iter() returns an iterator object for an iterable."
+  },
+  {
+    "id": 80,
+    "question": "In Python, the correct answer to this concept is: An iterator for obj.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python iterators",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because iter() returns an iterator object for an iterable."
+  },
+  {
+    "id": 81,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "An iterator for obj is the correct answer.",
+      "iter() returns an iterator object for an iterable.",
+      "A copy of obj is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python iterators",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "iter() returns an iterator object for an iterable."
+  },
+  {
+    "id": 82,
+    "question": "Which keyword is used inside a generator function to produce a value?",
+    "options": [
+      "return",
+      "yield",
+      "emit",
+      "await"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python generators",
+    "hint": "They produce values lazily.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "yield produces a value and pauses generator execution.",
+    "code": "def countdown(n):\n    while n:\n        yield n\n        n -= 1"
+  },
+  {
+    "id": 83,
+    "question": "In Python, the correct answer to this concept is: yield.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python generators",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because yield produces a value and pauses generator execution.",
+    "code": "def countdown(n):\n    while n:\n        yield n\n        n -= 1"
+  },
+  {
+    "id": 84,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "yield is the correct answer.",
+      "yield produces a value and pauses generator execution.",
+      "return is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python generators",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "yield produces a value and pauses generator execution.",
+    "code": "def countdown(n):\n    while n:\n        yield n\n        n -= 1"
+  },
+  {
+    "id": 85,
+    "question": "What is the main benefit of using 'with open(...) as f:'?",
+    "options": [
+      "It automatically closes the file",
+      "It speeds up file reads",
+      "It converts text to JSON",
+      "It makes the file global"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python context managers",
+    "hint": "Files are often used this way.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The with statement ensures cleanup, such as closing the file, even if an exception occurs."
+  },
+  {
+    "id": 86,
+    "question": "In Python, the correct answer to this concept is: It automatically closes the file.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python context managers",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because The with statement ensures cleanup, such as closing the file, even if an exception occurs."
+  },
+  {
+    "id": 87,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "It automatically closes the file is the correct answer.",
+      "The with statement ensures cleanup, such as closing the file, even if an exception occurs.",
+      "It speeds up file reads is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python context managers",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "The with statement ensures cleanup, such as closing the file, even if an exception occurs."
+  },
+  {
+    "id": 88,
+    "question": "Which block in try/except/finally is executed whether or not an exception occurs?",
+    "options": [
+      "except",
+      "else",
+      "finally",
+      "raise"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python exceptions",
+    "hint": "One block always runs if present.",
+    "question_type": "mcq",
+    "correctIndex": [
+      2
+    ],
+    "explanation": "finally runs regardless of whether an exception occurred."
+  },
+  {
+    "id": 89,
+    "question": "In Python, the correct answer to this concept is: finally.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python exceptions",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because finally runs regardless of whether an exception occurred."
+  },
+  {
+    "id": 90,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "finally is the correct answer.",
+      "finally runs regardless of whether an exception occurred.",
+      "except is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python exceptions",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "finally runs regardless of whether an exception occurred."
+  },
+  {
+    "id": 91,
+    "question": "What does self refer to in an instance method?",
+    "options": [
+      "The class itself",
+      "The current instance",
+      "A superclass",
+      "The module"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python OOP",
+    "hint": "self is the conventional first instance parameter.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "self refers to the object instance on which the method is called."
+  },
+  {
+    "id": 92,
+    "question": "In Python, the correct answer to this concept is: The current instance.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python OOP",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because self refers to the object instance on which the method is called."
+  },
+  {
+    "id": 93,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "The current instance is the correct answer.",
+      "self refers to the object instance on which the method is called.",
+      "The class itself is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python OOP",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "self refers to the object instance on which the method is called."
+  },
+  {
+    "id": 94,
+    "question": "What is the first parameter of a class method by convention?",
+    "options": [
+      "self",
+      "this",
+      "cls",
+      "klass"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python class methods",
+    "hint": "A decorator changes the first parameter.",
+    "question_type": "mcq",
+    "correctIndex": [
+      2
+    ],
+    "explanation": "Class methods receive the class as the first argument, usually named cls."
+  },
+  {
+    "id": 95,
+    "question": "In Python, the correct answer to this concept is: cls.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python class methods",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because Class methods receive the class as the first argument, usually named cls."
+  },
+  {
+    "id": 96,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "cls is the correct answer.",
+      "Class methods receive the class as the first argument, usually named cls.",
+      "self is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python class methods",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "Class methods receive the class as the first argument, usually named cls."
+  },
+  {
+    "id": 97,
+    "question": "What is true about a @staticmethod in Python?",
+    "options": [
+      "It receives self automatically",
+      "It receives cls automatically",
+      "It does not receive self or cls automatically",
+      "It cannot be called on a class"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python static methods",
+    "hint": "They don't get instance or class automatically.",
+    "question_type": "mcq",
+    "correctIndex": [
+      2
+    ],
+    "explanation": "staticmethod defines a function stored on the class without automatic binding."
+  },
+  {
+    "id": 98,
+    "question": "In Python, the correct answer to this concept is: It does not receive self or cls automatically.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python static methods",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because staticmethod defines a function stored on the class without automatic binding."
+  },
+  {
+    "id": 99,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "It does not receive self or cls automatically is the correct answer.",
+      "staticmethod defines a function stored on the class without automatic binding.",
+      "It receives self automatically is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python static methods",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "staticmethod defines a function stored on the class without automatic binding."
+  },
+  {
+    "id": 100,
+    "question": "Which value can be used as a dictionary key in Python?",
+    "options": [
+      "list",
+      "dict",
+      "set",
+      "tuple"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python dictionaries",
+    "hint": "Keys must be hashable.",
+    "question_type": "mcq",
+    "correctIndex": [
+      3
+    ],
+    "explanation": "Tuples can be dictionary keys if all their contents are hashable."
+  },
+  {
+    "id": 101,
+    "question": "In Python, the correct answer to this concept is: tuple.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python dictionaries",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because Tuples can be dictionary keys if all their contents are hashable."
+  },
+  {
+    "id": 102,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "tuple is the correct answer.",
+      "Tuples can be dictionary keys if all their contents are hashable.",
+      "list is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python dictionaries",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "Tuples can be dictionary keys if all their contents are hashable."
+  },
+  {
+    "id": 103,
+    "question": "Which built-in returns a new sorted list from an iterable?",
+    "options": [
+      "sort()",
+      "sorted()",
+      "order()",
+      "arrange()"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python sorting",
+    "hint": "This function returns a new list.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "sorted() returns a new sorted list, while list.sort() sorts in place."
+  },
+  {
+    "id": 104,
+    "question": "In Python, the correct answer to this concept is: sorted().",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python sorting",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because sorted() returns a new sorted list, while list.sort() sorts in place."
+  },
+  {
+    "id": 105,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "sorted() is the correct answer.",
+      "sorted() returns a new sorted list, while list.sort() sorts in place.",
+      "sort() is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python sorting",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "sorted() returns a new sorted list, while list.sort() sorts in place."
+  },
+  {
+    "id": 106,
+    "question": "What is the difference between sorted(nums) and nums.sort()?",
+    "options": [
+      "There is no difference",
+      "sorted() sorts in place; sort() returns a new list",
+      "sorted() returns a new list; sort() sorts in place",
+      "Both return iterators"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python list sorting",
+    "hint": "The method changes the list itself.",
+    "question_type": "mcq",
+    "correctIndex": [
+      2
+    ],
+    "explanation": "sorted() returns a new list, while list.sort() mutates the list and returns None."
+  },
+  {
+    "id": 107,
+    "question": "In Python, the correct answer to this concept is: sorted() returns a new list; sort() sorts in place.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python list sorting",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because sorted() returns a new list, while list.sort() mutates the list and returns None."
+  },
+  {
+    "id": 108,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "sorted() returns a new list; sort() sorts in place is the correct answer.",
+      "sorted() returns a new list, while list.sort() mutates the list and returns None.",
+      "There is no difference is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python list sorting",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "sorted() returns a new list, while list.sort() mutates the list and returns None."
+  },
+  {
+    "id": 109,
+    "question": "Why is 'if __name__ == \"__main__\":' used in Python files?",
+    "options": [
+      "To import built-ins",
+      "To run code only when the file is executed directly",
+      "To create a package",
+      "To declare a main function required by Python"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python imports",
+    "hint": "__name__ helps control script execution.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "This guard prevents code from running when the module is imported."
+  },
+  {
+    "id": 110,
+    "question": "In Python, the correct answer to this concept is: To run code only when the file is executed directly.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python imports",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because This guard prevents code from running when the module is imported."
+  },
+  {
+    "id": 111,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "To run code only when the file is executed directly is the correct answer.",
+      "This guard prevents code from running when the module is imported.",
+      "To import built-ins is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python imports",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "This guard prevents code from running when the module is imported."
+  },
+  {
+    "id": 112,
+    "question": "Which syntax creates an f-string?",
+    "options": [
+      "'Hello {name}'",
+      "f'Hello {name}'",
+      "format'Hello {name}'",
+      "${name}"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python strings",
+    "hint": "f-strings interpolate expressions.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "An f-string is prefixed with f and allows embedded expressions.",
+    "code": "name = 'Ava'\nmsg = f'Hello {name}'"
+  },
+  {
+    "id": 113,
+    "question": "In Python, the correct answer to this concept is: f'Hello {name}'.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python strings",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because An f-string is prefixed with f and allows embedded expressions.",
+    "code": "name = 'Ava'\nmsg = f'Hello {name}'"
+  },
+  {
+    "id": 114,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "f'Hello {name}' is the correct answer.",
+      "An f-string is prefixed with f and allows embedded expressions.",
+      "'Hello {name}' is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python strings",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "An f-string is prefixed with f and allows embedded expressions.",
+    "code": "name = 'Ava'\nmsg = f'Hello {name}'"
+  },
+  {
+    "id": 115,
+    "question": "What does enumerate(['a','b']) produce during iteration?",
+    "options": [
+      "Only values",
+      "Only indices",
+      "Pairs of index and value",
+      "A dictionary"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python enumerating",
+    "hint": "It gives index and value.",
+    "question_type": "mcq",
+    "correctIndex": [
+      2
+    ],
+    "explanation": "enumerate() yields tuples like (0, 'a') and (1, 'b')."
+  },
+  {
+    "id": 116,
+    "question": "In Python, the correct answer to this concept is: Pairs of index and value.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python enumerating",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because enumerate() yields tuples like (0, 'a') and (1, 'b')."
+  },
+  {
+    "id": 117,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "Pairs of index and value is the correct answer.",
+      "enumerate() yields tuples like (0, 'a') and (1, 'b').",
+      "Only values is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python enumerating",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "enumerate() yields tuples like (0, 'a') and (1, 'b')."
+  },
+  {
+    "id": 118,
+    "question": "What does zip([1,2], ['a','b']) conceptually produce?",
+    "options": [
+      "[(1,'a'), (2,'b')]",
+      "[1,2,'a','b']",
+      "{'1':'a','2':'b'} automatically",
+      "A set"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python zipping",
+    "hint": "It combines iterables item by item.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "zip pairs elements by position, producing tuples."
+  },
+  {
+    "id": 119,
+    "question": "In Python, the correct answer to this concept is: [(1,'a'), (2,'b')].",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python zipping",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because zip pairs elements by position, producing tuples."
+  },
+  {
+    "id": 120,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "[(1,'a'), (2,'b')] is the correct answer.",
+      "zip pairs elements by position, producing tuples.",
+      "[1,2,'a','b'] is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python zipping",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "zip pairs elements by position, producing tuples."
+  },
+  {
+    "id": 121,
+    "question": "What is a main characteristic of a set in Python?",
+    "options": [
+      "It preserves duplicates",
+      "It stores only key-value pairs",
+      "It contains unique elements",
+      "It is always sorted"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python sets",
+    "hint": "Duplicates are removed.",
+    "question_type": "mcq",
+    "correctIndex": [
+      2
+    ],
+    "explanation": "Sets store unique, hashable elements."
+  },
+  {
+    "id": 122,
+    "question": "In Python, the correct answer to this concept is: It contains unique elements.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python sets",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because Sets store unique, hashable elements."
+  },
+  {
+    "id": 123,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "It contains unique elements is the correct answer.",
+      "Sets store unique, hashable elements.",
+      "It preserves duplicates is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "medium",
+    "description": "Python sets",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "Sets store unique, hashable elements."
+  },
+  {
+    "id": 124,
+    "question": "Which statement about Python names is correct?",
+    "options": [
+      "Variables store objects directly by value only",
+      "Names are labels bound to objects",
+      "Names are memory addresses only",
+      "Rebinding a name mutates the old object"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python object model",
+    "hint": "Everything is an object.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "Python names reference objects; assignment binds names to objects."
+  },
+  {
+    "id": 125,
+    "question": "In Python, the correct answer to this concept is: Names are labels bound to objects.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python object model",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because Python names reference objects; assignment binds names to objects."
+  },
+  {
+    "id": 126,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "Names are labels bound to objects is the correct answer.",
+      "Python names reference objects; assignment binds names to objects.",
+      "Variables store objects directly by value only is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python object model",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "Python names reference objects; assignment binds names to objects."
+  },
+  {
+    "id": 127,
+    "question": "What does LEGB stand for in Python scope resolution?",
+    "options": [
+      "Local, Enclosed, Global, Built-in",
+      "Local, External, Global, Base",
+      "Lexical, Enclosed, Global, Binary",
+      "List, Expression, Global, Built-in"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python LEGB rule",
+    "hint": "Name resolution follows a standard order.",
+    "question_type": "mcq",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "Python resolves names in Local, Enclosed, Global, then Built-in scope."
+  },
+  {
+    "id": 128,
+    "question": "In Python, the correct answer to this concept is: Local, Enclosed, Global, Built-in.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python LEGB rule",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because Python resolves names in Local, Enclosed, Global, then Built-in scope."
+  },
+  {
+    "id": 129,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "Local, Enclosed, Global, Built-in is the correct answer.",
+      "Python resolves names in Local, Enclosed, Global, then Built-in scope.",
+      "Local, External, Global, Base is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python LEGB rule",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "Python resolves names in Local, Enclosed, Global, then Built-in scope."
+  },
+  {
+    "id": 130,
+    "question": "What does a decorator typically do in Python?",
+    "options": [
+      "Deletes a function",
+      "Wraps or modifies a function/class behavior",
+      "Turns a function into a loop",
+      "Makes code run faster automatically"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python decorators",
+    "hint": "They wrap or modify callables.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "Decorators take a callable and return a callable with modified behavior."
+  },
+  {
+    "id": 131,
+    "question": "In Python, the correct answer to this concept is: Wraps or modifies a function/class behavior.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python decorators",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because Decorators take a callable and return a callable with modified behavior."
+  },
+  {
+    "id": 132,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "Wraps or modifies a function/class behavior is the correct answer.",
+      "Decorators take a callable and return a callable with modified behavior.",
+      "Deletes a function is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python decorators",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "Decorators take a callable and return a callable with modified behavior."
+  },
+  {
+    "id": 133,
+    "question": "Why can generators be more memory efficient than lists?",
+    "options": [
+      "They store all results in C arrays",
+      "They compute values lazily on demand",
+      "They are always compiled",
+      "They bypass Python objects"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python generators",
+    "hint": "They save memory for large sequences.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "Generators yield one item at a time instead of storing the whole result in memory."
+  },
+  {
+    "id": 134,
+    "question": "In Python, the correct answer to this concept is: They compute values lazily on demand.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python generators",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because Generators yield one item at a time instead of storing the whole result in memory."
+  },
+  {
+    "id": 135,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "They compute values lazily on demand is the correct answer.",
+      "Generators yield one item at a time instead of storing the whole result in memory.",
+      "They store all results in C arrays is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python generators",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "Generators yield one item at a time instead of storing the whole result in memory."
+  },
+  {
+    "id": 136,
+    "question": "Which keyword defines an asynchronous function in Python?",
+    "options": [
+      "await def",
+      "async def",
+      "coroutine def",
+      "defer def"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python async",
+    "hint": "Coroutines need an event loop.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "async def defines a coroutine function.",
+    "code": "async def fetch_data():\n    return 42"
+  },
+  {
+    "id": 137,
+    "question": "In Python, the correct answer to this concept is: async def.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python async",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because async def defines a coroutine function.",
+    "code": "async def fetch_data():\n    return 42"
+  },
+  {
+    "id": 138,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "async def is the correct answer.",
+      "async def defines a coroutine function.",
+      "await def is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python async",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "async def defines a coroutine function.",
+    "code": "async def fetch_data():\n    return 42"
+  },
+  {
+    "id": 139,
+    "question": "What does await do in Python async code?",
+    "options": [
+      "Blocks the OS thread permanently",
+      "Waits for an awaitable result within a coroutine",
+      "Converts a function to a generator",
+      "Only works with files"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python async",
+    "hint": "One keyword waits for an awaitable.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "await suspends the coroutine until the awaitable completes."
+  },
+  {
+    "id": 140,
+    "question": "In Python, the correct answer to this concept is: Waits for an awaitable result within a coroutine.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python async",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because await suspends the coroutine until the awaitable completes."
+  },
+  {
+    "id": 141,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "Waits for an awaitable result within a coroutine is the correct answer.",
+      "await suspends the coroutine until the awaitable completes.",
+      "Blocks the OS thread permanently is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python async",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "await suspends the coroutine until the awaitable completes."
+  },
+  {
+    "id": 142,
+    "question": "What is the main difference between copy.copy() and copy.deepcopy()?",
+    "options": [
+      "No difference",
+      "copy() performs a shallow copy, deepcopy() recursively copies nested objects",
+      "deepcopy() is only for lists",
+      "copy() copies faster but changes types"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python copying",
+    "hint": "Nested objects matter.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "copy.copy() is shallow; copy.deepcopy() recursively clones nested objects."
+  },
+  {
+    "id": 143,
+    "question": "In Python, the correct answer to this concept is: copy() performs a shallow copy, deepcopy() recursively copies nested objects.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python copying",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because copy.copy() is shallow; copy.deepcopy() recursively clones nested objects."
+  },
+  {
+    "id": 144,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "copy() performs a shallow copy, deepcopy() recursively copies nested objects is the correct answer.",
+      "copy.copy() is shallow; copy.deepcopy() recursively clones nested objects.",
+      "No difference is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python copying",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "copy.copy() is shallow; copy.deepcopy() recursively clones nested objects."
+  },
+  {
+    "id": 145,
+    "question": "Which special method customizes the string representation used by print(obj) if __str__ exists?",
+    "options": [
+      "__repr__",
+      "__len__",
+      "__iter__",
+      "__str__"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python dunder methods",
+    "hint": "Special methods integrate objects with built-ins.",
+    "question_type": "mcq",
+    "correctIndex": [
+      3
+    ],
+    "explanation": "print() uses __str__ when available for user-friendly string output."
+  },
+  {
+    "id": 146,
+    "question": "In Python, the correct answer to this concept is: __str__.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python dunder methods",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because print() uses __str__ when available for user-friendly string output."
+  },
+  {
+    "id": 147,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "__str__ is the correct answer.",
+      "print() uses __str__ when available for user-friendly string output.",
+      "__repr__ is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python dunder methods",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "print() uses __str__ when available for user-friendly string output."
+  },
+  {
+    "id": 148,
+    "question": "What is __repr__ intended to provide?",
+    "options": [
+      "A user-friendly description only",
+      "An unambiguous representation for developers",
+      "The object size in bytes",
+      "A JSON string"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python repr",
+    "hint": "It aims to be unambiguous.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "__repr__ is intended for developers and debugging, ideally unambiguous."
+  },
+  {
+    "id": 149,
+    "question": "In Python, the correct answer to this concept is: An unambiguous representation for developers.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python repr",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because __repr__ is intended for developers and debugging, ideally unambiguous."
+  },
+  {
+    "id": 150,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "An unambiguous representation for developers is the correct answer.",
+      "__repr__ is intended for developers and debugging, ideally unambiguous.",
+      "A user-friendly description only is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python repr",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "__repr__ is intended for developers and debugging, ideally unambiguous."
+  },
+  {
+    "id": 151,
+    "question": "Which keyword explicitly raises an exception in Python?",
+    "options": [
+      "throw",
+      "raise",
+      "except",
+      "assert"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python exceptions",
+    "hint": "You can raise your own errors.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "raise triggers an exception."
+  },
+  {
+    "id": 152,
+    "question": "In Python, the correct answer to this concept is: raise.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python exceptions",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because raise triggers an exception."
+  },
+  {
+    "id": 153,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "raise is the correct answer.",
+      "raise triggers an exception.",
+      "throw is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python exceptions",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "raise triggers an exception."
+  },
+  {
+    "id": 154,
+    "question": "What is assert primarily used for in Python?",
+    "options": [
+      "Database transactions",
+      "Debug-time sanity checks",
+      "Creating exceptions classes",
+      "Optimizing loops"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python assertions",
+    "hint": "Useful during debugging, not input validation for production.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "assert checks assumptions and can be disabled with optimization flags."
+  },
+  {
+    "id": 155,
+    "question": "In Python, the correct answer to this concept is: Debug-time sanity checks.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python assertions",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because assert checks assumptions and can be disabled with optimization flags."
+  },
+  {
+    "id": 156,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "Debug-time sanity checks is the correct answer.",
+      "assert checks assumptions and can be disabled with optimization flags.",
+      "Database transactions is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python assertions",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "assert checks assumptions and can be disabled with optimization flags."
+  },
+  {
+    "id": 157,
+    "question": "Which method should an iterator implement to return the next item?",
+    "options": [
+      "__iter__",
+      "__next__",
+      "nextitem__",
+      "__yield__"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python iterables",
+    "hint": "Iteration protocol involves two special methods across iterator/iterable roles.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "Iterators implement __next__() to return the next item or raise StopIteration."
+  },
+  {
+    "id": 158,
+    "question": "In Python, the correct answer to this concept is: __next__.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python iterables",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because Iterators implement __next__() to return the next item or raise StopIteration."
+  },
+  {
+    "id": 159,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "__next__ is the correct answer.",
+      "Iterators implement __next__() to return the next item or raise StopIteration.",
+      "__iter__ is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python iterables",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "Iterators implement __next__() to return the next item or raise StopIteration."
+  },
+  {
+    "id": 160,
+    "question": "What is a common benefit of @dataclass in Python?",
+    "options": [
+      "It compiles code to C",
+      "It auto-generates methods like __init__ and __repr__",
+      "It makes all attributes private",
+      "It prevents inheritance"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python data classes",
+    "hint": "They reduce boilerplate for classes with fields.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "@dataclass can generate methods such as __init__, __repr__, and comparisons automatically."
+  },
+  {
+    "id": 161,
+    "question": "In Python, the correct answer to this concept is: It auto-generates methods like __init__ and __repr__.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python data classes",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because @dataclass can generate methods such as __init__, __repr__, and comparisons automatically."
+  },
+  {
+    "id": 162,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "It auto-generates methods like __init__ and __repr__ is the correct answer.",
+      "@dataclass can generate methods such as __init__, __repr__, and comparisons automatically.",
+      "It compiles code to C is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python data classes",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "@dataclass can generate methods such as __init__, __repr__, and comparisons automatically."
+  },
+  {
+    "id": 163,
+    "question": "What do Python type hints do at runtime by default?",
+    "options": [
+      "They are strictly enforced by Python automatically",
+      "They provide metadata but are not enforced automatically",
+      "They convert values to the hinted type",
+      "They disable duck typing"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python typing",
+    "hint": "Annotations are hints, not enforced by the interpreter by default.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "Type hints are mainly for tooling, readability, and static analysis unless additional runtime tools enforce them."
+  },
+  {
+    "id": 164,
+    "question": "In Python, the correct answer to this concept is: They provide metadata but are not enforced automatically.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python typing",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because Type hints are mainly for tooling, readability, and static analysis unless additional runtime tools enforce them."
+  },
+  {
+    "id": 165,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "They provide metadata but are not enforced automatically is the correct answer.",
+      "Type hints are mainly for tooling, readability, and static analysis unless additional runtime tools enforce them.",
+      "They are strictly enforced by Python automatically is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python typing",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "Type hints are mainly for tooling, readability, and static analysis unless additional runtime tools enforce them."
+  },
+  {
+    "id": 166,
+    "question": "What is the MRO in Python?",
+    "options": [
+      "Memory reference object",
+      "Method resolution order",
+      "Module रन order",
+      "Mutable reference order"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python MRO",
+    "hint": "Multiple inheritance needs a lookup order.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "MRO determines the order in which base classes are searched for attributes and methods."
+  },
+  {
+    "id": 167,
+    "question": "In Python, the correct answer to this concept is: Method resolution order.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python MRO",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because MRO determines the order in which base classes are searched for attributes and methods."
+  },
+  {
+    "id": 168,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "Method resolution order is the correct answer.",
+      "MRO determines the order in which base classes are searched for attributes and methods.",
+      "Memory reference object is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python MRO",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "MRO determines the order in which base classes are searched for attributes and methods."
+  },
+  {
+    "id": 169,
+    "question": "Which methods define a context manager protocol in Python?",
+    "options": [
+      "__start__ and __stop__",
+      "__open__ and __close__",
+      "__enter__ and __exit__",
+      "__begin__ and __end__"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python context managers",
+    "hint": "Two dunder methods are central.",
+    "question_type": "mcq",
+    "correctIndex": [
+      2
+    ],
+    "explanation": "Context managers implement __enter__ and __exit__."
+  },
+  {
+    "id": 170,
+    "question": "In Python, the correct answer to this concept is: __enter__ and __exit__.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python context managers",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because Context managers implement __enter__ and __exit__."
+  },
+  {
+    "id": 171,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "__enter__ and __exit__ is the correct answer.",
+      "Context managers implement __enter__ and __exit__.",
+      "__start__ and __stop__ is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python context managers",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "Context managers implement __enter__ and __exit__."
+  },
+  {
+    "id": 172,
+    "question": "Why are virtual environments commonly used in Python projects?",
+    "options": [
+      "To speed up Python syntax parsing",
+      "To isolate project dependencies",
+      "To replace pip permanently",
+      "To make scripts async"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python packaging",
+    "hint": "Virtual environments isolate dependencies.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "Virtual environments keep dependencies separate between projects."
+  },
+  {
+    "id": 173,
+    "question": "In Python, the correct answer to this concept is: To isolate project dependencies.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python packaging",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because Virtual environments keep dependencies separate between projects."
+  },
+  {
+    "id": 174,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "To isolate project dependencies is the correct answer.",
+      "Virtual environments keep dependencies separate between projects.",
+      "To speed up Python syntax parsing is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python packaging",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "Virtual environments keep dependencies separate between projects."
+  },
+  {
+    "id": 175,
+    "question": "Why is ''.join(parts) often preferred over repeated string concatenation in a loop?",
+    "options": [
+      "join mutates strings in place",
+      "Strings are immutable, so repeated concatenation can create many intermediate objects",
+      "join only works for ASCII",
+      "+= is illegal for strings"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python performance",
+    "hint": "Mutable sequence concatenation in loops can be costly.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "Because strings are immutable, repeated concatenation can be inefficient; join builds the final string more efficiently."
+  },
+  {
+    "id": 176,
+    "question": "In Python, the correct answer to this concept is: Strings are immutable, so repeated concatenation can create many intermediate objects.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python performance",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because Because strings are immutable, repeated concatenation can be inefficient; join builds the final string more efficiently."
+  },
+  {
+    "id": 177,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "Strings are immutable, so repeated concatenation can create many intermediate objects is the correct answer.",
+      "Because strings are immutable, repeated concatenation can be inefficient; join builds the final string more efficiently.",
+      "join mutates strings in place is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python performance",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "Because strings are immutable, repeated concatenation can be inefficient; join builds the final string more efficiently."
+  },
+  {
+    "id": 178,
+    "question": "What is a descriptor in Python?",
+    "options": [
+      "A comment block",
+      "An object defining methods like __get__ or __set__ to customize attribute access",
+      "A JSON schema",
+      "A type hint alias"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python descriptors",
+    "hint": "Properties are built on this idea.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "Descriptors customize attribute access and power features like properties, methods, and classmethod."
+  },
+  {
+    "id": 179,
+    "question": "In Python, the correct answer to this concept is: An object defining methods like __get__ or __set__ to customize attribute access.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python descriptors",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because Descriptors customize attribute access and power features like properties, methods, and classmethod."
+  },
+  {
+    "id": 180,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "An object defining methods like __get__ or __set__ to customize attribute access is the correct answer.",
+      "Descriptors customize attribute access and power features like properties, methods, and classmethod.",
+      "A comment block is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python descriptors",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "Descriptors customize attribute access and power features like properties, methods, and classmethod."
+  },
+  {
+    "id": 181,
+    "question": "What is the main purpose of @property in Python?",
+    "options": [
+      "To make methods asynchronous",
+      "To access a method like an attribute",
+      "To prevent inheritance",
+      "To create class variables"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python properties",
+    "hint": "It wraps method access like an attribute.",
+    "question_type": "mcq",
+    "correctIndex": [
+      1
+    ],
+    "explanation": "@property lets you expose method logic through attribute-style access."
+  },
+  {
+    "id": 182,
+    "question": "In Python, the correct answer to this concept is: To access a method like an attribute.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python properties",
+    "hint": "Decide whether the statement is accurate.",
+    "question_type": "boolean",
+    "correctIndex": [
+      0
+    ],
+    "explanation": "The statement is true because @property lets you expose method logic through attribute-style access."
+  },
+  {
+    "id": 183,
+    "question": "Select all true statements related to this Python concept.",
+    "options": [
+      "To access a method like an attribute is the correct answer.",
+      "@property lets you expose method logic through attribute-style access.",
+      "To make methods asynchronous is the only valid JavaScript answer.",
+      "The correct choice is none of the above."
+    ],
+    "category": "Python",
+    "difficulty": "hard",
+    "description": "Python properties",
+    "hint": "More than one option may be correct.",
+    "question_type": "multi-answer",
+    "correctIndex": [
+      0,
+      1
+    ],
+    "explanation": "@property lets you expose method logic through attribute-style access."
+  }
+]

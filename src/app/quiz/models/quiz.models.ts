@@ -25,4 +25,13 @@ export type Category = {
 
 export type ScreenMode = 'home' | 'quiz' | 'result';
 
- export type SelectedSetup = {category: string, difficulty: Difficulty, noOfQuestions: any}
+export type SelectedSetup = {category: string, difficulty: Difficulty, noOfQuestions: any}
+
+export type StatCardKeys = 'question' | 'score' | 'category' | 'status'
+
+export type QuizResult = {
+  question: string;
+  score: number;
+  category: string;
+  status: string;
+};

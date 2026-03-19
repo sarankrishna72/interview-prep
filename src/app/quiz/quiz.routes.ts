@@ -1,4 +1,5 @@
 import { Routes } from '@angular/router';
+import { cyborgQuestionResolver } from './core/guards/cyborg-questions-resolve/cyborg-questions-resolve';
 
 export const QUIZ_ROUTES: Routes = [
   {
@@ -11,9 +12,13 @@ export const QUIZ_ROUTES: Routes = [
             import('./screens/home-screen/home-screen.component').then(m => m.HomeScreenComponent)
         },
         {
-            path: 'questions',
+            path: ':category/questions',
             loadComponent: () =>
-            import('./screens/cyborg-question/cyborg-question.component').then(m => m.CyborgQuestionComponent)
+            import('./screens/cyborg-question/cyborg-question.component').then(m => m.CyborgQuestionComponent),
+            resolve: {
+                questions: cyborgQuestionResolver
+            },
+            pathMatch: 'full'
         },
         {
             path: '',

@@ -24,6 +24,7 @@ export class HomeScreenComponent implements OnInit {
   categories: Category[] = [];
   _quizService = inject(CyborgQuizService);
   _changeDetectorRef = inject(ChangeDetectorRef);
+  
   getQuizCategories() : void {
     this._quizService.getQuizCategories().subscribe(data => {
       this.categories = data.categories;
