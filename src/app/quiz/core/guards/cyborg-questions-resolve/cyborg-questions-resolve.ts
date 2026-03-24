@@ -13,11 +13,5 @@ export const cyborgQuestionResolver: ResolveFn<any> = (route, state) => {
     const config = _cyborgQuizStoreService.selectedSetup();
     const questionCategory = route.paramMap.get('category')!;
     _cyborgQuizStoreService.setQuestionsStat({category: questionCategory})
-    return _cyborgQuizService.getCategoryQuestions(questionCategory).pipe(map((questions: Question[]) => {
-        return shuffleArray(questions)
-            .filter((q: Question) => (!config?.difficulty || q.difficulty === config.difficulty))
-            .slice(0, config?.noOfQuestions ?? 5)
-    }));
-    
-    
+    return _cyborgQuizService.getCategoryQuestions({category: questionCategory, limit: config?.noOfQuestions || 10, difficulty: config?.difficulty || 'easy'  });
 };

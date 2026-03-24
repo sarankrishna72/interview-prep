@@ -41,7 +41,7 @@ export class CyborgQuestionOptionsComponent  {
   }
 
   onOptSelect(event: any) {
-    if (this.question().question_type === 'multi-answer') {
+    if (this.question().question_type === 'multi_answer') {
       if ( this.selectedOpts.includes(event)) {
         this.selectedOpts = this.selectedOpts.filter(c => c != event);
       } else {

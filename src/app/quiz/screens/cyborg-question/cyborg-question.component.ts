@@ -102,7 +102,7 @@ export class CyborgQuestionComponent implements OnInit {
  
 
   ngOnInit() {
-    this.questions =  this._activateRoute.snapshot.data['questions'];
+    this.questions =  this._activateRoute.snapshot.data['questions']?.['questions'] || [];
     this._cyborgQuizStoreService.setQuestionsStat({ totalQuestions: this.questions.length , difficulty: this._cyborgQuizStoreService.selectedSetup()?.difficulty || 'easy' });
   }
 

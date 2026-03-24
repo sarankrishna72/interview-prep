@@ -1,6 +1,6 @@
 import { Difficulty } from "./common.model";
 
-export type QuestionType = 'mcq' | 'boolean' | 'multi-answer';
+export type QuestionType = 'mcq' | 'boolean' | 'multi_answer';
 export type Question = {
   id: any;
   question : string;

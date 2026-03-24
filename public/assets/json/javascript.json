@@ -191,7 +191,7 @@
   },
   {
     "id": 11,
-    "question": "What is the output type of `typeof true`?",
+    "question": "What is the result of `typeof true`?",
     "options": [
       "boolean",
       "true",
@@ -201,12 +201,12 @@
     "category": "JavaScript",
     "difficulty": "easy",
     "description": "Using typeof.",
-    "hint": "`typeof` returns a string naming the type, but the value it refers to is a boolean.",
+    "hint": "`typeof` returns a string.",
     "question_type": "mcq",
     "correctIndex": [
-      0
+      2
     ],
-    "explanation": "The value `true` is a boolean."
+    "explanation": "`typeof true` evaluates to the string `\"boolean\"`."
   },
   {
     "id": 12,
@@ -1233,20 +1233,20 @@
     "id": 67,
     "question": "What will this code output?",
     "options": [
-      "0",
-      "1",
-      "2",
+      "7",
+      "8",
+      "9",
       "undefined"
     ],
     "category": "JavaScript",
     "difficulty": "easy",
     "description": "Array indexing basics.",
-    "hint": "Arrays start at index 0.",
+    "hint": "`nums[0]` accesses the first element in the array.",
     "question_type": "mcq",
     "correctIndex": [
       0
     ],
-    "explanation": "The first element of the array is at index 0.",
+    "explanation": "Arrays use zero-based indexing, so `nums[0]` is `7`.",
     "code": "const nums = [7, 8, 9];\nconsole.log(nums[0]);"
   },
   {
