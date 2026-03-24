@@ -3,7 +3,7 @@
     <cyborg-question-option [optIndex]="i" [correctOptsIndex]="correctOptsIndex"  [option]="opt" (onOptSelect)="onOptSelect($event)" [selectedOpts]="selectedOpts"></cyborg-question-option>
   }
 </div>
-@if(question().question_type === 'multi-answer' && !correctOptsIndex.length) {
+@if(question().question_type === 'multi_answer' && !correctOptsIndex.length) {
   <cyborg-button class="flex mt-4 justify-end" (onClick)="onQuestionSubmission()" btnType="primary">
     <cyborg-text [textConfig]="{size: 'xs', family: 'orbitron', color: 'primary'}" textClass="uppercase block w-full">Submit</cyborg-text>
   </cyborg-button>
